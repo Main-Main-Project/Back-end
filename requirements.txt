@@ -1,0 +1,34 @@
+fastapi
+uvicorn
+python-multipart
+pymupdf
+pdfplumber
+pytesseract
+pillow
+tensorflow
+paddleocr
+paddlepaddle==3.1.1
+# opencv-python
+opencv-python-headless
+# backend에서 ollama 호출
+requests
+# backend에서 postgreSQL 연결
+sqlalchemy
+psycopg2-binary
+olefile
+openpyxl
+PyPDF2
+python-pptx
+python-docx
+numpy
+
+python-dotenv==1.2.2
+websockets==16.0
+# 보안 및 인증 (JWT, 암호화)
+bcrypt==5.0.0
+passlib==1.7.4
+itsdangerous
+reportlab==4.5.1
+fpdf2==2.8.7
+typing
+pydantic
