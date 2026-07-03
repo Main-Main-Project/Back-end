@@ -1,0 +1,2000 @@
+{"question": "온라인 강의와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "교육"}
+{"question": "신주발행과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "상법"}
+{"question": "정기결제 해지에 필요한 증거는 무엇이야?", "label": "legal", "category": "소비자법"}
+{"question": "보석에 필요한 증거는 무엇이야?", "label": "legal", "category": "형사소송법"}
+{"question": "청문이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "행정법"}
+{"question": "신발 관리를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "생활"}
+{"question": "과태료를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "행정법"}
+{"question": "법정 드라마 추천해줘", "label": "nonlegal", "category": "법률표현 비법률"}
+{"question": "육아휴직에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "노동법"}
+{"question": "도보 길찾기를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "교통정보"}
+{"question": "토지경계가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "건설부동산법"}
+{"question": "신호위반의 법적 요건은 무엇이야?", "label": "legal", "category": "도로교통법"}
+{"question": "상속포기와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "상속법"}
+{"question": "팝송을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "연예"}
+{"question": "주간 회고 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "생산성"}
+{"question": "해양오염을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "환경법"}
+{"question": "양육권과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "가족법"}
+{"question": "축하 카드 문구에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "창작"}
+{"question": "소개팅 대화에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "관계·소통"}
+{"question": "생태계에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "교통사고를 내고 필요한 조치를 하지 않으면 어떤 책임이 생겨?", "label": "legal", "category": "도로교통법"}
+{"question": "내일 기온에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "건축 양식에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "법정 장면을 연기할 때 어떤 표정이 좋아?", "label": "nonlegal", "category": "법률표현 비법률"}
+{"question": "인턴 지원과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "진로"}
+{"question": "남의 물건을 몰래 가져가면 무조건 절도죄가 돼?", "label": "legal", "category": "형법"}
+{"question": "횡령죄를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "형법"}
+{"question": "인턴 지원의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "진로"}
+{"question": "자세 교정에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "건강생활"}
+{"question": "사진 무단사용에 필요한 증거는 무엇이야?", "label": "legal", "category": "지식재산권법"}
+{"question": "신호위반을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "도로교통법"}
+{"question": "허위광고를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "소비자법"}
+{"question": "시험 계획에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "교육"}
+{"question": "중고거래 분쟁을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "소비자법"}
+{"question": "블로그 제목을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "창작"}
+{"question": "건강보험이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "사회복지법"}
+{"question": "실업급여와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "사회복지법"}
+{"question": "주말 영화에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "연예"}
+{"question": "소멸시효가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "민법"}
+{"question": "옷 정리 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "생활"}
+{"question": "보드게임에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "취미"}
+{"question": "브라우저 캐시에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "IT 사용"}
+{"question": "소프트웨어 불법복제가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "지식재산권법"}
+{"question": "종합소득세와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "세법"}
+{"question": "강도죄에 필요한 증거는 무엇이야?", "label": "legal", "category": "형법"}
+{"question": "명예훼손죄가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "형법"}
+{"question": "손실보상의 법적 요건은 무엇이야?", "label": "legal", "category": "행정법"}
+{"question": "애니메이션의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "연예"}
+{"question": "여름 더위와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "날씨"}
+{"question": "파스타에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "음식"}
+{"question": "HTML 표에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "자연환경 훼손에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "환경법"}
+{"question": "협박죄는 어떤 경우에 인정돼?", "label": "legal", "category": "형법"}
+{"question": "예능 프로그램에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "연예"}
+{"question": "주말 영화의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "연예"}
+{"question": "소설 제목에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "창작"}
+{"question": "한국어 맞춤법 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "언어"}
+{"question": "부동산 중개와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "건설부동산법"}
+{"question": "음주운전과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "도로교통법"}
+{"question": "기차 시간을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "교통정보"}
+{"question": "영어 공부에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "교육"}
+{"question": "걷기 운동의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "건강생활"}
+{"question": "과태료에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "행정법"}
+{"question": "가족 여행에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "여행"}
+{"question": "뮤지컬 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "연예"}
+{"question": "불법건축물과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "건설부동산법"}
+{"question": "영업비밀 침해에 필요한 증거는 무엇이야?", "label": "legal", "category": "지식재산권법"}
+{"question": "엑셀 자동화의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "코딩"}
+{"question": "퍼즐에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "취미"}
+{"question": "국민연금과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "사회복지법"}
+{"question": "배우 작품을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "연예"}
+{"question": "상해죄의 법적 요건은 무엇이야?", "label": "legal", "category": "형법"}
+{"question": "기차 여행 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "여행"}
+{"question": "SQL 조인에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "블로그 제목에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "창작"}
+{"question": "역사 공부의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "교육"}
+{"question": "자바스크립트 반복문을 설명해줘", "label": "nonlegal", "category": "코딩"}
+{"question": "상해죄가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "형법"}
+{"question": "작문 연습 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "언어"}
+{"question": "FastAPI 라우터를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "키보드 설정에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "IT 사용"}
+{"question": "장마에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "산업재해에 필요한 증거는 무엇이야?", "label": "legal", "category": "노동법"}
+{"question": "상속재산분할에 필요한 증거는 무엇이야?", "label": "legal", "category": "상속법"}
+{"question": "이직 준비에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "진로"}
+{"question": "가산세는 어떤 경우에 인정돼?", "label": "legal", "category": "세법"}
+{"question": "내일 기온에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "기분 전환 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "인사·일상"}
+{"question": "자바스크립트 배열에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "설명의무가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "의료법"}
+{"question": "정규표현식에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "여행 준비물의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "여행"}
+{"question": "가성비 제품을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "쇼핑"}
+{"question": "금융상품 불완전판매를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "금융보험법"}
+{"question": "우주 탐사에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "상속결격이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "상속법"}
+{"question": "샐러드에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "음식"}
+{"question": "유언집행에 필요한 증거는 무엇이야?", "label": "legal", "category": "상속법"}
+{"question": "불법 주정차의 법적 요건은 무엇이야?", "label": "legal", "category": "도로교통법"}
+{"question": "공동저작물의 법적 요건은 무엇이야?", "label": "legal", "category": "지식재산권법"}
+{"question": "균형 잡힌 식사를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "건강생활"}
+{"question": "욕실 청소에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "생활"}
+{"question": "소프트웨어 불법복제에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "지식재산권법"}
+{"question": "의료기관 개설과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "의료법"}
+{"question": "야구 규칙에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "스포츠"}
+{"question": "가성비 제품의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "쇼핑"}
+{"question": "눈 휴식의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "건강생활"}
+{"question": "주간 회고를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "목공에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "취미"}
+{"question": "허위광고의 법적 요건은 무엇이야?", "label": "legal", "category": "소비자법"}
+{"question": "명상에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "건강생활"}
+{"question": "절도죄와 점유이탈물횡령죄는 어떻게 구별해?", "label": "legal", "category": "형법"}
+{"question": "전세권에 필요한 증거는 무엇이야?", "label": "legal", "category": "주택임대차법"}
+{"question": "특허출원은 어떤 경우에 인정돼?", "label": "legal", "category": "지식재산권법"}
+{"question": "재량권 일탈에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "행정법"}
+{"question": "중고거래 분쟁에 필요한 증거는 무엇이야?", "label": "legal", "category": "소비자법"}
+{"question": "전세사기 피해의 법적 요건은 무엇이야?", "label": "legal", "category": "주택임대차법"}
+{"question": "이사 준비를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "생활"}
+{"question": "할 일 관리에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "공항 이동에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "교통정보"}
+{"question": "방 청소의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "생활"}
+{"question": "고전문학 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "일반상식"}
+{"question": "세계사 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "일반상식"}
+{"question": "Git 브랜치에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "인디 음악에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "연예"}
+{"question": "자전거 경로에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "교통정보"}
+{"question": "그때 혈중알코올농도 기준은 어떻게 돼?", "label": "legal", "category": "도로교통법"}
+{"question": "발표 준비에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "교육"}
+{"question": "수면 습관에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "건강생활"}
+{"question": "발음 교정에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "언어"}
+{"question": "친생자관계에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "가족법"}
+{"question": "퍼즐에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "취미"}
+{"question": "청문의 법적 요건은 무엇이야?", "label": "legal", "category": "행정법"}
+{"question": "장애인 복지는 어떤 경우에 인정돼?", "label": "legal", "category": "사회복지법"}
+{"question": "골프의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "스포츠"}
+{"question": "신주발행은 어떤 경우에 인정돼?", "label": "legal", "category": "상법"}
+{"question": "피로 관리 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "건강생활"}
+{"question": "아침 인사의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "인사·일상"}
+{"question": "욕실 청소의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "생활"}
+{"question": "독해 공부에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "언어"}
+{"question": "기여분에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "상속법"}
+{"question": "재심과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "형사소송법"}
+{"question": "내일 기온을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "인디 음악 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "연예"}
+{"question": "진술거부권이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "형사소송법"}
+{"question": "취득세와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "세법"}
+{"question": "부산 여행에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "여행"}
+{"question": "추리소설 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "연예"}
+{"question": "강제퇴거에 필요한 증거는 무엇이야?", "label": "legal", "category": "헌법출입국법"}
+{"question": "확정일자와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "주택임대차법"}
+{"question": "중국어 발음과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "언어"}
+{"question": "이직 준비에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "진로"}
+{"question": "자격증 공부에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "교육"}
+{"question": "등산에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "스포츠"}
+{"question": "업무방해죄는 어떤 경우에 인정돼?", "label": "legal", "category": "형법"}
+{"question": "직업의 자유에 필요한 증거는 무엇이야?", "label": "legal", "category": "헌법출입국법"}
+{"question": "구속영장의 법적 요건은 무엇이야?", "label": "legal", "category": "형사소송법"}
+{"question": "콘서트 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "연예"}
+{"question": "화면 녹화와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "IT 사용"}
+{"question": "장마를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "상표등록을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "지식재산권법"}
+{"question": "자격증 공부에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "교육"}
+{"question": "냉장고 정리에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "생활"}
+{"question": "양육권을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "가족법"}
+{"question": "한국 드라마에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "연예"}
+{"question": "저녁 메뉴의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "음식"}
+{"question": "집중 시간에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "디자인권 침해와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "지식재산권법"}
+{"question": "재산권에 필요한 증거는 무엇이야?", "label": "legal", "category": "헌법출입국법"}
+{"question": "생태계에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "주말 계획 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "인사·일상"}
+{"question": "우주 탐사의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "일반상식"}
+{"question": "키보드 설정에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "IT 사용"}
+{"question": "수질오염을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "환경법"}
+{"question": "옷 정리의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "생활"}
+{"question": "개발자 취업을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "진로"}
+{"question": "자바스크립트 배열에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "개인정보 열람요구와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "개인정보보호법"}
+{"question": "법률행위 취소에 필요한 증거는 무엇이야?", "label": "legal", "category": "민법"}
+{"question": "예능 프로그램을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "연예"}
+{"question": "예능 프로그램에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "연예"}
+{"question": "주거침입죄와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "형법"}
+{"question": "기여분을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "상속법"}
+{"question": "자기소개와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "인사·일상"}
+{"question": "기본권 침해와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "헌법출입국법"}
+{"question": "기분 전환에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "인사·일상"}
+{"question": "소멸시효와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "민법"}
+{"question": "친권과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "가족법"}
+{"question": "이사회 결의는 어떤 경우에 인정돼?", "label": "legal", "category": "상법"}
+{"question": "연대채무와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "금융보험법"}
+{"question": "콘서트의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "연예"}
+{"question": "폰트 저작권은 어떤 경우에 인정돼?", "label": "legal", "category": "지식재산권법"}
+{"question": "부가가치세가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "세법"}
+{"question": "산재보험에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "사회복지법"}
+{"question": "무면허 의료행위와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "의료법"}
+{"question": "윈도우 업데이트에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "IT 사용"}
+{"question": "SQL 조인과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "코딩"}
+{"question": "하도급대금이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "건설부동산법"}
+{"question": "간단한 아침의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "음식"}
+{"question": "임차권등기와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "주택임대차법"}
+{"question": "전세사기 피해는 어떤 경우에 인정돼?", "label": "legal", "category": "주택임대차법"}
+{"question": "운전면허 취소가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "도로교통법"}
+{"question": "불법행위와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "민법"}
+{"question": "긴급복지지원에 필요한 증거는 무엇이야?", "label": "legal", "category": "사회복지법"}
+{"question": "초밥에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "음식"}
+{"question": "변호인 조력권이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "형사소송법"}
+{"question": "개인정보 국외이전과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "개인정보보호법"}
+{"question": "재판상 이혼을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "가족법"}
+{"question": "노트북 추천에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "쇼핑"}
+{"question": "온라인 강의에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "교육"}
+{"question": "종합소득세를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "세법"}
+{"question": "압수수색에 필요한 증거는 무엇이야?", "label": "legal", "category": "형사소송법"}
+{"question": "개인회생과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "금융보험법"}
+{"question": "변호사가 주인공인 영화가 뭐가 있어?", "label": "nonlegal", "category": "법률표현 비법률"}
+{"question": "축하 카드 문구와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "창작"}
+{"question": "한국어 맞춤법의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "언어"}
+{"question": "심리학에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "한정승인에 필요한 증거는 무엇이야?", "label": "legal", "category": "상속법"}
+{"question": "환경영향평가와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "환경법"}
+{"question": "할부계약에 필요한 증거는 무엇이야?", "label": "legal", "category": "소비자법"}
+{"question": "난폭운전과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "도로교통법"}
+{"question": "맥북 단축키 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "IT 사용"}
+{"question": "영업정지를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "행정법"}
+{"question": "중국어 발음에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "언어"}
+{"question": "마라톤과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "스포츠"}
+{"question": "발표 준비의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "교육"}
+{"question": "고소는 어떤 경우에 인정돼?", "label": "legal", "category": "형사소송법"}
+{"question": "명예훼손죄는 어떤 경우에 인정돼?", "label": "legal", "category": "형법"}
+{"question": "자전거 사고가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "도로교통법"}
+{"question": "그림 그리기에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "취미"}
+{"question": "유튜브 아이디어에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "창작"}
+{"question": "양육권에 필요한 증거는 무엇이야?", "label": "legal", "category": "가족법"}
+{"question": "응원 문구에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "인사·일상"}
+{"question": "채무조정과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "금융보험법"}
+{"question": "면접교섭권은 어떤 경우에 인정돼?", "label": "legal", "category": "가족법"}
+{"question": "계약갱신요구권은 어떤 경우에 인정돼?", "label": "legal", "category": "주택임대차법"}
+{"question": "보험사기가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "금융보험법"}
+{"question": "음주측정거부의 법적 요건은 무엇이야?", "label": "legal", "category": "도로교통법"}
+{"question": "파이썬 반복문에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "목공에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "취미"}
+{"question": "게임 설정을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "창작"}
+{"question": "호텔 예약에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "여행"}
+{"question": "공소시효와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "형사소송법"}
+{"question": "신호위반, 중앙선 침범, 급제동 같은 행위가 반복되면 난폭운전으로 볼 수 있어?", "label": "legal", "category": "도로교통법"}
+{"question": "개인정보 처리위탁의 법적 요건은 무엇이야?", "label": "legal", "category": "개인정보보호법"}
+{"question": "상표등록에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "지식재산권법"}
+{"question": "종합소득세와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "세법"}
+{"question": "면접 준비의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "진로"}
+{"question": "장애인 복지에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "사회복지법"}
+{"question": "개인정보 처리위탁이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "개인정보보호법"}
+{"question": "생태계와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "일반상식"}
+{"question": "소음진동에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "환경법"}
+{"question": "상속재산분할과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "상속법"}
+{"question": "연락 습관에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "관계·소통"}
+{"question": "프리랜서 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "진로"}
+{"question": "일본어 인사 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "언어"}
+{"question": "신주발행이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "상법"}
+{"question": "영업양도가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "상법"}
+{"question": "응급의료 거부에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "의료법"}
+{"question": "산재보험에 필요한 증거는 무엇이야?", "label": "legal", "category": "사회복지법"}
+{"question": "상속순위는 어떤 경우에 인정돼?", "label": "legal", "category": "상속법"}
+{"question": "인디 음악에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "연예"}
+{"question": "이사회 결의의 법적 요건은 무엇이야?", "label": "legal", "category": "상법"}
+{"question": "일본 여행에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "여행"}
+{"question": "구속영장에 필요한 증거는 무엇이야?", "label": "legal", "category": "형사소송법"}
+{"question": "영업정지는 어떤 경우에 인정돼?", "label": "legal", "category": "행정법"}
+{"question": "가산세가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "세법"}
+{"question": "친구와 대화와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "인사·일상"}
+{"question": "무면허 의료행위는 어떤 경우에 인정돼?", "label": "legal", "category": "의료법"}
+{"question": "보복운전에 필요한 증거는 무엇이야?", "label": "legal", "category": "도로교통법"}
+{"question": "일정 관리에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "오늘 기분이 어때?", "label": "nonlegal", "category": "인사·일상"}
+{"question": "개발자 취업 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "진로"}
+{"question": "카메라의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "쇼핑"}
+{"question": "이사회 결의가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "상법"}
+{"question": "재산분할과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "가족법"}
+{"question": "자바스크립트 배열에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "수학 공부를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "교육"}
+{"question": "채무조정과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "금융보험법"}
+{"question": "직업의 자유와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "헌법출입국법"}
+{"question": "제주도 여행의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "여행"}
+{"question": "불법행위를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "민법"}
+{"question": "국적취득과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "헌법출입국법"}
+{"question": "배임죄는 어떤 경우에 인정돼?", "label": "legal", "category": "형법"}
+{"question": "헌법소원은 어떤 경우에 인정돼?", "label": "legal", "category": "헌법출입국법"}
+{"question": "면허가 취소된 사람이 다시 운전하면 이것도 무면허운전이야?", "label": "legal", "category": "도로교통법"}
+{"question": "신주발행에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "상법"}
+{"question": "노트 정리에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "교육"}
+{"question": "성년후견에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "가족법"}
+{"question": "캘리그래피에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "취미"}
+{"question": "이사 준비에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "생활"}
+{"question": "택시 이용에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "교통정보"}
+{"question": "초밥 맛있는 조합 알려줘", "label": "nonlegal", "category": "음식"}
+{"question": "미세먼지의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "날씨"}
+{"question": "소비자 피해보상이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "소비자법"}
+{"question": "잡담 주제에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "인사·일상"}
+{"question": "과징금은 어떤 경우에 인정돼?", "label": "legal", "category": "행정법"}
+{"question": "골프 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "스포츠"}
+{"question": "보복운전에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "도로교통법"}
+{"question": "개인정보 수집은 어떤 경우에 인정돼?", "label": "legal", "category": "개인정보보호법"}
+{"question": "손실보상은 어떤 경우에 인정돼?", "label": "legal", "category": "행정법"}
+{"question": "김치찌개에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "음식"}
+{"question": "토양오염에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "환경법"}
+{"question": "명상에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "건강생활"}
+{"question": "겨울 코트 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "쇼핑"}
+{"question": "토지수용에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "건설부동산법"}
+{"question": "파일 압축 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "IT 사용"}
+{"question": "불법추심과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "금융보험법"}
+{"question": "건축 양식 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "일반상식"}
+{"question": "SF 영화에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "연예"}
+{"question": "책상 의자를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "쇼핑"}
+{"question": "이직 준비를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "진로"}
+{"question": "건강보험과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "사회복지법"}
+{"question": "기차 여행의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "여행"}
+{"question": "개인정보 유출에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "개인정보보호법"}
+{"question": "손해배상에 필요한 증거는 무엇이야?", "label": "legal", "category": "민법"}
+{"question": "겨울 한파에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "유류분에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "상속법"}
+{"question": "처분 사전통지에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "행정법"}
+{"question": "개인정보 제3자 제공을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "개인정보보호법"}
+{"question": "축구 경기에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "스포츠"}
+{"question": "시험 계획을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "교육"}
+{"question": "우선변제권이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "주택임대차법"}
+{"question": "과실범과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "형법"}
+{"question": "소음진동과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "환경법"}
+{"question": "직장 적응 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "진로"}
+{"question": "자전거 경로와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "교통정보"}
+{"question": "눈 예보에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "할 일 관리에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "영업정지가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "행정법"}
+{"question": "산업재해에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "노동법"}
+{"question": "사실혼을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "가족법"}
+{"question": "지하철 환승과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "교통정보"}
+{"question": "정기결제 해지를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "소비자법"}
+{"question": "대리권에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "민법"}
+{"question": "내일 비가 올까?", "label": "nonlegal", "category": "날씨"}
+{"question": "토양오염에 필요한 증거는 무엇이야?", "label": "legal", "category": "환경법"}
+{"question": "공소시효를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "형사소송법"}
+{"question": "할 일 관리에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "주주총회에 필요한 증거는 무엇이야?", "label": "legal", "category": "상법"}
+{"question": "저작권 침해와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "지식재산권법"}
+{"question": "재량권 일탈과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "행정법"}
+{"question": "이사회 결의를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "상법"}
+{"question": "윈도우 업데이트의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "IT 사용"}
+{"question": "불법건축물에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "건설부동산법"}
+{"question": "보석과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "형사소송법"}
+{"question": "이사회 결의에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "상법"}
+{"question": "아침 인사에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "인사·일상"}
+{"question": "한식을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "음식"}
+{"question": "재건축이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "건설부동산법"}
+{"question": "아침 루틴과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "인사·일상"}
+{"question": "뮤지컬에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "연예"}
+{"question": "API 호출과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "코딩"}
+{"question": "상속포기를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "상속법"}
+{"question": "책상 의자에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "쇼핑"}
+{"question": "배우 작품과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "연예"}
+{"question": "자세 교정을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "건강생활"}
+{"question": "손해배상은 어떤 경우에 인정돼?", "label": "legal", "category": "민법"}
+{"question": "건축허가에 필요한 증거는 무엇이야?", "label": "legal", "category": "건설부동산법"}
+{"question": "쓰레기 분리배출을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "생활"}
+{"question": "양육비에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "가족법"}
+{"question": "난폭운전의 법적 요건은 무엇이야?", "label": "legal", "category": "도로교통법"}
+{"question": "파산면책과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "금융보험법"}
+{"question": "처분 사전통지가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "행정법"}
+{"question": "임금체불과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "노동법"}
+{"question": "수면 습관 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "건강생활"}
+{"question": "직무 선택에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "진로"}
+{"question": "블루투스 오류에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "IT 사용"}
+{"question": "과실범과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "형법"}
+{"question": "악취 피해와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "환경법"}
+{"question": "세탁 방법에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "생활"}
+{"question": "기차 여행과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "여행"}
+{"question": "인공지능과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "일반상식"}
+{"question": "파이썬 반복문 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "코딩"}
+{"question": "무선 이어폰에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "쇼핑"}
+{"question": "요가와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "스포츠"}
+{"question": "조세불복을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "세법"}
+{"question": "긴급체포에 필요한 증거는 무엇이야?", "label": "legal", "category": "형사소송법"}
+{"question": "주방 정리에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "생활"}
+{"question": "상속순위를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "상속법"}
+{"question": "연락 습관에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "관계·소통"}
+{"question": "예능 프로그램의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "연예"}
+{"question": "소개팅 대화의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "관계·소통"}
+{"question": "연대보증을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "민법"}
+{"question": "해고예고는 어떤 경우에 인정돼?", "label": "legal", "category": "노동법"}
+{"question": "태풍 경로에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "카메라에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "쇼핑"}
+{"question": "위치정보 수집에 필요한 증거는 무엇이야?", "label": "legal", "category": "개인정보보호법"}
+{"question": "상속포기에 필요한 증거는 무엇이야?", "label": "legal", "category": "상속법"}
+{"question": "리콜을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "소비자법"}
+{"question": "영상정보처리기기와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "개인정보보호법"}
+{"question": "퍼즐을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "취미"}
+{"question": "진술거부권은 어떤 경우에 인정돼?", "label": "legal", "category": "형사소송법"}
+{"question": "전기 절약을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "생활"}
+{"question": "철학에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "경제 상식에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "요가에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "스포츠"}
+{"question": "하도급대금을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "건설부동산법"}
+{"question": "음주측정거부를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "도로교통법"}
+{"question": "개인정보 삭제요구는 어떤 경우에 인정돼?", "label": "legal", "category": "개인정보보호법"}
+{"question": "추리소설에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "연예"}
+{"question": "택시 이용에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "교통정보"}
+{"question": "호텔 예약의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "여행"}
+{"question": "개인회생과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "금융보험법"}
+{"question": "긴급복지지원이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "사회복지법"}
+{"question": "계약갱신요구권과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "주택임대차법"}
+{"question": "환경영향평가와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "환경법"}
+{"question": "발음 교정에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "언어"}
+{"question": "CSS 정렬과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "코딩"}
+{"question": "뜨개질을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "취미"}
+{"question": "김치찌개와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "음식"}
+{"question": "철학과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "일반상식"}
+{"question": "이력서 작성에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "진로"}
+{"question": "상호사용이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "상법"}
+{"question": "증거능력과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "형사소송법"}
+{"question": "물건을 훔칠 때 흉기를 가지고 있었다면 어떤 죄가 문제돼?", "label": "legal", "category": "형법"}
+{"question": "하루 일과와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "인사·일상"}
+{"question": "절도범이 체포를 피하려고 폭행하거나 협박하면 어떤 죄가 돼?", "label": "legal", "category": "형법"}
+{"question": "노인장기요양의 법적 요건은 무엇이야?", "label": "legal", "category": "사회복지법"}
+{"question": "중식의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "음식"}
+{"question": "신발 관리에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "생활"}
+{"question": "재개발을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "건설부동산법"}
+{"question": "의료기관 개설은 어떤 경우에 인정돼?", "label": "legal", "category": "의료법"}
+{"question": "디자인권 침해와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "지식재산권법"}
+{"question": "기초생활보장이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "사회복지법"}
+{"question": "고발이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "형사소송법"}
+{"question": "영업양도와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "상법"}
+{"question": "오늘 서울 날씨 어때?", "label": "nonlegal", "category": "날씨"}
+{"question": "영업정지와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "행정법"}
+{"question": "한국 드라마를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "연예"}
+{"question": "판사 역할이 나오는 보드게임을 추천해줘", "label": "nonlegal", "category": "법률표현 비법률"}
+{"question": "항소를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "형사소송법"}
+{"question": "국적상실에 필요한 증거는 무엇이야?", "label": "legal", "category": "헌법출입국법"}
+{"question": "자기소개서에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "진로"}
+{"question": "CSS 정렬에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "스트레칭에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "건강생활"}
+{"question": "하루 일과의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "인사·일상"}
+{"question": "공동저작물에 필요한 증거는 무엇이야?", "label": "legal", "category": "지식재산권법"}
+{"question": "처방전 발급에 필요한 증거는 무엇이야?", "label": "legal", "category": "의료법"}
+{"question": "저녁 메뉴에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "음식"}
+{"question": "일정 관리를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "주간 회고에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "직장 내 괴롭힘과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "노동법"}
+{"question": "인공지능에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "사업자등록에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "세법"}
+{"question": "영상정보처리기기를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "개인정보보호법"}
+{"question": "축구 경기 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "스포츠"}
+{"question": "채무불이행을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "민법"}
+{"question": "커리어 계획과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "진로"}
+{"question": "집중력에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "교육"}
+{"question": "주거침입죄가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "형법"}
+{"question": "노트 정리와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "교육"}
+{"question": "의료인 면허대여가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "의료법"}
+{"question": "보증금 증액이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "주택임대차법"}
+{"question": "거절하는 방법의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "관계·소통"}
+{"question": "첫 만남을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "관계·소통"}
+{"question": "제품 하자에 필요한 증거는 무엇이야?", "label": "legal", "category": "소비자법"}
+{"question": "한정승인의 법적 요건은 무엇이야?", "label": "legal", "category": "상속법"}
+{"question": "인턴 지원에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "진로"}
+{"question": "보이스피싱 피해를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "금융보험법"}
+{"question": "무면허 의료행위와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "의료법"}
+{"question": "강제퇴거에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "헌법출입국법"}
+{"question": "브랜드 이름에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "창작"}
+{"question": "사진 촬영에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "취미"}
+{"question": "위치정보 수집의 법적 요건은 무엇이야?", "label": "legal", "category": "개인정보보호법"}
+{"question": "연대보증에 필요한 증거는 무엇이야?", "label": "legal", "category": "민법"}
+{"question": "비정규직 차별에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "노동법"}
+{"question": "비밀누설과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "의료법"}
+{"question": "그림 그리기에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "취미"}
+{"question": "무면허 의료행위의 법적 요건은 무엇이야?", "label": "legal", "category": "의료법"}
+{"question": "양육비에 필요한 증거는 무엇이야?", "label": "legal", "category": "가족법"}
+{"question": "눈 휴식에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "건강생활"}
+{"question": "온라인 구매 철회가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "소비자법"}
+{"question": "HTML 표와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "코딩"}
+{"question": "고용보험에 필요한 증거는 무엇이야?", "label": "legal", "category": "사회복지법"}
+{"question": "눈 예보의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "날씨"}
+{"question": "가족 대화에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "관계·소통"}
+{"question": "기초생활보장에 필요한 증거는 무엇이야?", "label": "legal", "category": "사회복지법"}
+{"question": "직장 적응을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "진로"}
+{"question": "운동화와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "쇼핑"}
+{"question": "저녁 메뉴 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "음식"}
+{"question": "축하 카드 문구에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "창작"}
+{"question": "장마에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "아침 계획과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "생산성"}
+{"question": "정규표현식과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "코딩"}
+{"question": "무선 이어폰의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "쇼핑"}
+{"question": "애니메이션과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "연예"}
+{"question": "금융상품 불완전판매의 법적 요건은 무엇이야?", "label": "legal", "category": "금융보험법"}
+{"question": "세계사에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "통신판매를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "소비자법"}
+{"question": "온라인 강의에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "교육"}
+{"question": "고전문학을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "영업양도에 필요한 증거는 무엇이야?", "label": "legal", "category": "상법"}
+{"question": "사회복지시설과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "사회복지법"}
+{"question": "복지급여 환수를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "사회복지법"}
+{"question": "일교차에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "시험 계획에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "교육"}
+{"question": "대표이사 책임은 어떤 경우에 인정돼?", "label": "legal", "category": "상법"}
+{"question": "직무 선택을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "진로"}
+{"question": "서울 관광을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "여행"}
+{"question": "냉장고 정리의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "생활"}
+{"question": "표현의 자유와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "헌법출입국법"}
+{"question": "호흡 운동에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "건강생활"}
+{"question": "가구 배치의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "생활"}
+{"question": "음주운전의 법적 요건은 무엇이야?", "label": "legal", "category": "도로교통법"}
+{"question": "시간 관리의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "인사·일상"}
+{"question": "농구 슛에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "스포츠"}
+{"question": "서울 관광에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "여행"}
+{"question": "고속도로 교통에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "교통정보"}
+{"question": "재판상 이혼이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "가족법"}
+{"question": "가구 배치에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "생활"}
+{"question": "식물 키우기 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "취미"}
+{"question": "외국어 공부에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "언어"}
+{"question": "계약 해제에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "민법"}
+{"question": "야구 규칙 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "스포츠"}
+{"question": "초밥에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "음식"}
+{"question": "주말 영화를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "연예"}
+{"question": "사진 무단사용과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "지식재산권법"}
+{"question": "불법행위에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "민법"}
+{"question": "야식에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "음식"}
+{"question": "도예에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "취미"}
+{"question": "중앙선 침범에 필요한 증거는 무엇이야?", "label": "legal", "category": "도로교통법"}
+{"question": "고속도로 교통을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "교통정보"}
+{"question": "상속재산분할에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "상속법"}
+{"question": "채무불이행과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "민법"}
+{"question": "두 명 이상이 함께 물건을 훔치면 특수절도죄가 될 수 있어?", "label": "legal", "category": "형법"}
+{"question": "동화 이야기 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "창작"}
+{"question": "헌법소원과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "헌법출입국법"}
+{"question": "증여세와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "세법"}
+{"question": "대습상속에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "상속법"}
+{"question": "이사회 결의와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "상법"}
+{"question": "면접 준비에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "진로"}
+{"question": "의료기관 개설과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "의료법"}
+{"question": "영어 회화에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "언어"}
+{"question": "배드민턴 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "스포츠"}
+{"question": "세무조사와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "세법"}
+{"question": "도시락에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "음식"}
+{"question": "소멸시효와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "민법"}
+{"question": "보험금 지급과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "금융보험법"}
+{"question": "경청에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "관계·소통"}
+{"question": "주주대표소송에 필요한 증거는 무엇이야?", "label": "legal", "category": "상법"}
+{"question": "개인정보 삭제요구의 법적 요건은 무엇이야?", "label": "legal", "category": "개인정보보호법"}
+{"question": "환경영향평가에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "환경법"}
+{"question": "채무조정의 법적 요건은 무엇이야?", "label": "legal", "category": "금융보험법"}
+{"question": "개인정보 제3자 제공에 필요한 증거는 무엇이야?", "label": "legal", "category": "개인정보보호법"}
+{"question": "법정상속에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "상속법"}
+{"question": "가산세의 법적 요건은 무엇이야?", "label": "legal", "category": "세법"}
+{"question": "회사 합병과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "상법"}
+{"question": "소프트웨어 불법복제를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "지식재산권법"}
+{"question": "도로교통법에서 음주운전은 어떤 경우에 성립해?", "label": "legal", "category": "도로교통법"}
+{"question": "소설 제목을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "창작"}
+{"question": "업무 우선순위 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "생산성"}
+{"question": "테니스 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "스포츠"}
+{"question": "그림 그리기 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "취미"}
+{"question": "자전거 운동을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "스포츠"}
+{"question": "팀워크를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "관계·소통"}
+{"question": "눈 예보 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "날씨"}
+{"question": "육아휴직을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "노동법"}
+{"question": "재산분할에 필요한 증거는 무엇이야?", "label": "legal", "category": "가족법"}
+{"question": "의료과실은 어떤 경우에 인정돼?", "label": "legal", "category": "의료법"}
+{"question": "응급의료 거부가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "의료법"}
+{"question": "스마트폰 백업에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "IT 사용"}
+{"question": "호텔 예약 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "여행"}
+{"question": "절도하려고 가게에 들어갔지만 아무것도 가져오지 못한 경우도 처벌돼?", "label": "legal", "category": "형법"}
+{"question": "자격증 공부의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "교육"}
+{"question": "수질오염에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "환경법"}
+{"question": "과학 실험과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "교육"}
+{"question": "한국사에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "개인정보 삭제요구를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "개인정보보호법"}
+{"question": "정보공개청구의 법적 요건은 무엇이야?", "label": "legal", "category": "행정법"}
+{"question": "무면허 상태에서 운전하면 도로교통법상 어떤 처벌을 받아?", "label": "legal", "category": "도로교통법"}
+{"question": "개인정보 제3자 제공의 법적 요건은 무엇이야?", "label": "legal", "category": "개인정보보호법"}
+{"question": "간호사 업무범위를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "의료법"}
+{"question": "보복운전을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "도로교통법"}
+{"question": "우선변제권을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "주택임대차법"}
+{"question": "주택 인도에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "주택임대차법"}
+{"question": "노래 주제에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "창작"}
+{"question": "대기오염 배출에 필요한 증거는 무엇이야?", "label": "legal", "category": "환경법"}
+{"question": "처방전 발급이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "의료법"}
+{"question": "출퇴근 경로에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "교통정보"}
+{"question": "캘리그래피를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "취미"}
+{"question": "아침 루틴 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "인사·일상"}
+{"question": "국적상실에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "헌법출입국법"}
+{"question": "심리학과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "일반상식"}
+{"question": "변호인 조력권을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "형사소송법"}
+{"question": "직무 선택에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "진로"}
+{"question": "스마트폰 백업과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "IT 사용"}
+{"question": "식물 키우기에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "취미"}
+{"question": "물권변동에 필요한 증거는 무엇이야?", "label": "legal", "category": "민법"}
+{"question": "입양은 어떤 경우에 인정돼?", "label": "legal", "category": "가족법"}
+{"question": "고발에 필요한 증거는 무엇이야?", "label": "legal", "category": "형사소송법"}
+{"question": "체력 관리 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "건강생활"}
+{"question": "양육비가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "가족법"}
+{"question": "세무조사는 어떤 경우에 인정돼?", "label": "legal", "category": "세법"}
+{"question": "도보 길찾기에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "교통정보"}
+{"question": "눈 휴식 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "건강생활"}
+{"question": "주주총회가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "상법"}
+{"question": "생태계에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "해고예고가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "노동법"}
+{"question": "프린터 연결에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "IT 사용"}
+{"question": "경제 상식을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "자전거 사고를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "도로교통법"}
+{"question": "감사 인사와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "인사·일상"}
+{"question": "면접 영어에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "언어"}
+{"question": "정보공개청구와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "행정법"}
+{"question": "사회복지시설과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "사회복지법"}
+{"question": "친구와 대화의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "인사·일상"}
+{"question": "과실범은 어떤 경우에 인정돼?", "label": "legal", "category": "형법"}
+{"question": "주주의 권리와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "상법"}
+{"question": "경청과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "관계·소통"}
+{"question": "환경분쟁조정의 법적 요건은 무엇이야?", "label": "legal", "category": "환경법"}
+{"question": "시험 계획과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "교육"}
+{"question": "개인회생에 필요한 증거는 무엇이야?", "label": "legal", "category": "금융보험법"}
+{"question": "보험계약 해지가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "금융보험법"}
+{"question": "인턴 지원을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "진로"}
+{"question": "배출시설 허가와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "환경법"}
+{"question": "미세먼지와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "날씨"}
+{"question": "난민인정에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "헌법출입국법"}
+{"question": "과실범을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "형법"}
+{"question": "변호사 캐릭터 이름을 만들어줘.", "label": "nonlegal", "category": "법률표현 비법률"}
+{"question": "고용보험이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "사회복지법"}
+{"question": "수학 공부의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "교육"}
+{"question": "생태계의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "일반상식"}
+{"question": "부당이득과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "민법"}
+{"question": "외국어 공부와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "언어"}
+{"question": "입양에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "가족법"}
+{"question": "거절하는 방법에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "관계·소통"}
+{"question": "국가배상은 어떤 경우에 인정돼?", "label": "legal", "category": "행정법"}
+{"question": "설명의무는 어떤 경우에 인정돼?", "label": "legal", "category": "의료법"}
+{"question": "실업급여를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "사회복지법"}
+{"question": "사진 촬영에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "취미"}
+{"question": "장애인 복지와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "사회복지법"}
+{"question": "농구 슛 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "스포츠"}
+{"question": "FastAPI 라우터에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "기여분과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "상속법"}
+{"question": "커피머신의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "쇼핑"}
+{"question": "태풍 경로에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "판결문처럼 보이는 글꼴을 추천해줘.", "label": "nonlegal", "category": "법률표현 비법률"}
+{"question": "장마의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "날씨"}
+{"question": "개인정보 열람요구를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "개인정보보호법"}
+{"question": "가성비 제품에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "쇼핑"}
+{"question": "연차휴가에 필요한 증거는 무엇이야?", "label": "legal", "category": "노동법"}
+{"question": "전세권을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "주택임대차법"}
+{"question": "검사가 등장하는 추리 영화를 알려줘.", "label": "nonlegal", "category": "법률표현 비법률"}
+{"question": "상속결격과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "상속법"}
+{"question": "주차장 찾기에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "교통정보"}
+{"question": "온라인 구매 철회와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "소비자법"}
+{"question": "콘서트에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "연예"}
+{"question": "재건축에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "건설부동산법"}
+{"question": "점유취득시효의 법적 요건은 무엇이야?", "label": "legal", "category": "민법"}
+{"question": "한국 드라마에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "연예"}
+{"question": "재판을 소재로 한 한국 드라마를 추천해줘.", "label": "nonlegal", "category": "법률표현 비법률"}
+{"question": "귀화허가와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "헌법출입국법"}
+{"question": "태양계의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "일반상식"}
+{"question": "비밀누설을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "의료법"}
+{"question": "걷기 운동에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "건강생활"}
+{"question": "냉장고 정리 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "생활"}
+{"question": "간단한 아침에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "음식"}
+{"question": "상호사용은 어떤 경우에 인정돼?", "label": "legal", "category": "상법"}
+{"question": "캘리그래피 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "취미"}
+{"question": "김치찌개의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "음식"}
+{"question": "영업양도와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "상법"}
+{"question": "호흡 운동 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "건강생활"}
+{"question": "중고거래 분쟁에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "소비자법"}
+{"question": "부가가치세를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "세법"}
+{"question": "낚시에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "취미"}
+{"question": "제품 하자가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "소비자법"}
+{"question": "책상 의자의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "쇼핑"}
+{"question": "욕실 청소를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "생활"}
+{"question": "잡담 주제에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "인사·일상"}
+{"question": "신발 관리의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "생활"}
+{"question": "집중력에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "교육"}
+{"question": "도예에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "취미"}
+{"question": "가족 대화에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "관계·소통"}
+{"question": "웹툰을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "연예"}
+{"question": "기본권 침해를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "헌법출입국법"}
+{"question": "월세 연체가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "주택임대차법"}
+{"question": "처방전 발급과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "의료법"}
+{"question": "눈 휴식에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "건강생활"}
+{"question": "생일 축하의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "인사·일상"}
+{"question": "주거침입죄를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "형법"}
+{"question": "상행위에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "상법"}
+{"question": "혼자 여행에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "여행"}
+{"question": "전세보증금 반환은 어떤 경우에 인정돼?", "label": "legal", "category": "주택임대차법"}
+{"question": "방문판매와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "소비자법"}
+{"question": "중식 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "음식"}
+{"question": "간단한 아침에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "음식"}
+{"question": "월세 연체를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "주택임대차법"}
+{"question": "전기 절약에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "생활"}
+{"question": "미세먼지에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "폐기물 처리가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "환경법"}
+{"question": "재판상 이혼과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "가족법"}
+{"question": "퇴직금의 법적 요건은 무엇이야?", "label": "legal", "category": "노동법"}
+{"question": "우선변제권과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "주택임대차법"}
+{"question": "종합소득세에 필요한 증거는 무엇이야?", "label": "legal", "category": "세법"}
+{"question": "구속영장과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "형사소송법"}
+{"question": "외국어 공부의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "언어"}
+{"question": "절도행위를 반복적으로 하면 상습절도로 처벌될 수 있어?", "label": "legal", "category": "형법"}
+{"question": "상속순위의 법적 요건은 무엇이야?", "label": "legal", "category": "상속법"}
+{"question": "임차권등기는 어떤 경우에 인정돼?", "label": "legal", "category": "주택임대차법"}
+{"question": "FastAPI 라우터 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "코딩"}
+{"question": "디저트 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "음식"}
+{"question": "자료 정리를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "걷기 운동에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "건강생활"}
+{"question": "냉장고 정리를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "생활"}
+{"question": "평등권과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "헌법출입국법"}
+{"question": "환경영향평가를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "환경법"}
+{"question": "양육비의 법적 요건은 무엇이야?", "label": "legal", "category": "가족법"}
+{"question": "구속영장은 어떤 경우에 인정돼?", "label": "legal", "category": "형사소송법"}
+{"question": "오늘 날씨에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "변호인 조력권에 필요한 증거는 무엇이야?", "label": "legal", "category": "형사소송법"}
+{"question": "동화 이야기의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "창작"}
+{"question": "자료 정리와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "생산성"}
+{"question": "FastAPI 라우터에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "기여분과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "상속법"}
+{"question": "비즈니스 이메일을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "언어"}
+{"question": "고속도로 교통과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "교통정보"}
+{"question": "축구 경기를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "스포츠"}
+{"question": "개인정보 열람요구에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "개인정보보호법"}
+{"question": "디자인권 침해가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "지식재산권법"}
+{"question": "주민등록번호 처리와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "개인정보보호법"}
+{"question": "법정상속의 법적 요건은 무엇이야?", "label": "legal", "category": "상속법"}
+{"question": "절도죄에서 실행에 착수했지만 물건을 가져가지 못하면 미수로 처벌돼?", "label": "legal", "category": "형법"}
+{"question": "공항 이동과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "교통정보"}
+{"question": "서울 관광에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "여행"}
+{"question": "횡령죄에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "형법"}
+{"question": "사회복지시설의 법적 요건은 무엇이야?", "label": "legal", "category": "사회복지법"}
+{"question": "특허권 침해를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "지식재산권법"}
+{"question": "가산세에 필요한 증거는 무엇이야?", "label": "legal", "category": "세법"}
+{"question": "업무 우선순위에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "파스타에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "음식"}
+{"question": "상속결격을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "상속법"}
+{"question": "설명의무와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "의료법"}
+{"question": "커리어 계획에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "진로"}
+{"question": "경찰이 음주측정을 요구했는데 운전자가 정당한 이유 없이 거부하면 처벌돼?", "label": "legal", "category": "도로교통법"}
+{"question": "사실혼이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "가족법"}
+{"question": "강도죄의 법적 요건은 무엇이야?", "label": "legal", "category": "형법"}
+{"question": "디저트에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "음식"}
+{"question": "경제 상식에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "주말 영화 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "연예"}
+{"question": "태양계에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "FastAPI 라우터에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "재판상 이혼의 법적 요건은 무엇이야?", "label": "legal", "category": "가족법"}
+{"question": "손해배상의 법적 요건은 무엇이야?", "label": "legal", "category": "민법"}
+{"question": "일출 시간에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "식물 키우기에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "취미"}
+{"question": "해양오염에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "환경법"}
+{"question": "상속순위와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "상속법"}
+{"question": "영어 공부에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "교육"}
+{"question": "수학 공부에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "교육"}
+{"question": "수면 습관의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "건강생활"}
+{"question": "운동화를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "쇼핑"}
+{"question": "독해 공부에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "언어"}
+{"question": "친구와 갈등의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "관계·소통"}
+{"question": "일출 시간 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "날씨"}
+{"question": "주말 비 소식에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "습관 만들기에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "항소에 필요한 증거는 무엇이야?", "label": "legal", "category": "형사소송법"}
+{"question": "가족 여행에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "여행"}
+{"question": "여객선 시간과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "교통정보"}
+{"question": "자전거 사고에 필요한 증거는 무엇이야?", "label": "legal", "category": "도로교통법"}
+{"question": "와이파이 연결에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "IT 사용"}
+{"question": "폭행죄에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "형법"}
+{"question": "소멸시효에 필요한 증거는 무엇이야?", "label": "legal", "category": "민법"}
+{"question": "법원 건물 사진을 잘 찍는 방법이 있어?", "label": "nonlegal", "category": "법률표현 비법률"}
+{"question": "물 절약에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "생활"}
+{"question": "토지경계와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "건설부동산법"}
+{"question": "세계사와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "일반상식"}
+{"question": "비정규직 차별이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "노동법"}
+{"question": "첫 만남과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "관계·소통"}
+{"question": "퇴직금과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "노동법"}
+{"question": "사회복지시설을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "사회복지법"}
+{"question": "직업의 자유를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "헌법출입국법"}
+{"question": "세탁 방법 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "생활"}
+{"question": "이력서 작성에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "진로"}
+{"question": "법정상속에 필요한 증거는 무엇이야?", "label": "legal", "category": "상속법"}
+{"question": "세금 체납의 법적 요건은 무엇이야?", "label": "legal", "category": "세법"}
+{"question": "식물 키우기와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "취미"}
+{"question": "협의이혼을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "가족법"}
+{"question": "생일 축하를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "인사·일상"}
+{"question": "불법 주정차를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "도로교통법"}
+{"question": "개발자 취업에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "진로"}
+{"question": "브라우저 캐시의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "IT 사용"}
+{"question": "방문판매에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "소비자법"}
+{"question": "토지경계를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "건설부동산법"}
+{"question": "윈도우 업데이트에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "IT 사용"}
+{"question": "업무방해죄의 법적 요건은 무엇이야?", "label": "legal", "category": "형법"}
+{"question": "보증금 증액은 어떤 경우에 인정돼?", "label": "legal", "category": "주택임대차법"}
+{"question": "상해죄에 필요한 증거는 무엇이야?", "label": "legal", "category": "형법"}
+{"question": "보복운전은 어떤 경우에 인정돼?", "label": "legal", "category": "도로교통법"}
+{"question": "공소시효와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "형사소송법"}
+{"question": "유치권의 법적 요건은 무엇이야?", "label": "legal", "category": "건설부동산법"}
+{"question": "농구 슛의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "스포츠"}
+{"question": "명예훼손죄에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "형법"}
+{"question": "인디 음악에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "연예"}
+{"question": "윈도우 업데이트 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "IT 사용"}
+{"question": "태양계에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "비즈니스 이메일 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "언어"}
+{"question": "상표등록은 어떤 경우에 인정돼?", "label": "legal", "category": "지식재산권법"}
+{"question": "보드게임에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "취미"}
+{"question": "호텔 예약에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "여행"}
+{"question": "운전면허 취소에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "도로교통법"}
+{"question": "메모 방법에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "계약 해제의 법적 요건은 무엇이야?", "label": "legal", "category": "민법"}
+{"question": "독서 습관의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "교육"}
+{"question": "취득세의 법적 요건은 무엇이야?", "label": "legal", "category": "세법"}
+{"question": "와이파이 연결을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "IT 사용"}
+{"question": "난폭운전이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "도로교통법"}
+{"question": "집중 시간의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "생산성"}
+{"question": "주택 인도에 필요한 증거는 무엇이야?", "label": "legal", "category": "주택임대차법"}
+{"question": "확정일자에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "주택임대차법"}
+{"question": "전세보증금 반환에 필요한 증거는 무엇이야?", "label": "legal", "category": "주택임대차법"}
+{"question": "대리권을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "민법"}
+{"question": "집중력 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "교육"}
+{"question": "무선 이어폰에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "쇼핑"}
+{"question": "양육비는 어떤 경우에 인정돼?", "label": "legal", "category": "가족법"}
+{"question": "연차휴가와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "노동법"}
+{"question": "중고거래 분쟁과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "소비자법"}
+{"question": "외국어 공부 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "언어"}
+{"question": "영상정보처리기기에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "개인정보보호법"}
+{"question": "상속순위에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "상속법"}
+{"question": "채무조정에 필요한 증거는 무엇이야?", "label": "legal", "category": "금융보험법"}
+{"question": "개인정보 국외이전은 어떤 경우에 인정돼?", "label": "legal", "category": "개인정보보호법"}
+{"question": "상행위와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "상법"}
+{"question": "신주발행과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "상법"}
+{"question": "부당해고에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "노동법"}
+{"question": "악기 연주에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "취미"}
+{"question": "직장 내 괴롭힘이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "노동법"}
+{"question": "화면 녹화를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "IT 사용"}
+{"question": "강도죄에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "형법"}
+{"question": "폭행죄와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "형법"}
+{"question": "친권은 어떤 경우에 인정돼?", "label": "legal", "category": "가족법"}
+{"question": "초밥의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "음식"}
+{"question": "신발 관리에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "생활"}
+{"question": "배드민턴을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "스포츠"}
+{"question": "생일 축하에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "인사·일상"}
+{"question": "토지수용이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "건설부동산법"}
+{"question": "가구 배치에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "생활"}
+{"question": "원천징수와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "세법"}
+{"question": "외국어 공부에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "언어"}
+{"question": "대항력의 법적 요건은 무엇이야?", "label": "legal", "category": "주택임대차법"}
+{"question": "위드마크 공식으로 운전 당시 혈중알코올농도를 추정할 수 있어?", "label": "legal", "category": "도로교통법"}
+{"question": "신용정보는 어떤 경우에 인정돼?", "label": "legal", "category": "금융보험법"}
+{"question": "횡령죄와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "형법"}
+{"question": "부가가치세와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "세법"}
+{"question": "파일 압축을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "IT 사용"}
+{"question": "위치정보 수집이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "개인정보보호법"}
+{"question": "행정소송의 법적 요건은 무엇이야?", "label": "legal", "category": "행정법"}
+{"question": "명의신탁에 필요한 증거는 무엇이야?", "label": "legal", "category": "건설부동산법"}
+{"question": "영어 단어에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "언어"}
+{"question": "인공지능에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "친권에 필요한 증거는 무엇이야?", "label": "legal", "category": "가족법"}
+{"question": "체류자격에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "헌법출입국법"}
+{"question": "노트 정리에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "교육"}
+{"question": "소프트웨어 불법복제와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "지식재산권법"}
+{"question": "응급의료 거부는 어떤 경우에 인정돼?", "label": "legal", "category": "의료법"}
+{"question": "오늘 날씨에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "직장 동료를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "관계·소통"}
+{"question": "무선 이어폰을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "쇼핑"}
+{"question": "커리어 계획에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "진로"}
+{"question": "주방 정리에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "생활"}
+{"question": "웹툰에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "연예"}
+{"question": "건축 양식에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "방문판매는 어떤 경우에 인정돼?", "label": "legal", "category": "소비자법"}
+{"question": "재산분할이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "가족법"}
+{"question": "위치정보 수집에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "개인정보보호법"}
+{"question": "업무 우선순위에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "메모 방법의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "생산성"}
+{"question": "역사 공부에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "교육"}
+{"question": "스마트폰 백업 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "IT 사용"}
+{"question": "재건축은 어떤 경우에 인정돼?", "label": "legal", "category": "건설부동산법"}
+{"question": "교통경찰이 나오는 어린이 동화를 써줘.", "label": "nonlegal", "category": "법률표현 비법률"}
+{"question": "체력 관리에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "건강생활"}
+{"question": "감정 표현 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "관계·소통"}
+{"question": "여행 준비물을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "여행"}
+{"question": "전자상거래 환불에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "소비자법"}
+{"question": "소비자 피해보상의 법적 요건은 무엇이야?", "label": "legal", "category": "소비자법"}
+{"question": "캐릭터 이름과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "창작"}
+{"question": "상속재산분할은 어떤 경우에 인정돼?", "label": "legal", "category": "상속법"}
+{"question": "주말 영화에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "연예"}
+{"question": "전자책 단말기에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "쇼핑"}
+{"question": "비즈니스 이메일의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "언어"}
+{"question": "상속순위와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "상속법"}
+{"question": "대항력을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "주택임대차법"}
+{"question": "영어 공부 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "교육"}
+{"question": "공룡에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "전세사기 피해에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "주택임대차법"}
+{"question": "운전면허 취소와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "도로교통법"}
+{"question": "정보공개청구는 어떤 경우에 인정돼?", "label": "legal", "category": "행정법"}
+{"question": "산재보험이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "사회복지법"}
+{"question": "폐기물 처리에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "환경법"}
+{"question": "명상과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "건강생활"}
+{"question": "불법추심에 필요한 증거는 무엇이야?", "label": "legal", "category": "금융보험법"}
+{"question": "배임죄가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "형법"}
+{"question": "헌법소원에 필요한 증거는 무엇이야?", "label": "legal", "category": "헌법출입국법"}
+{"question": "면접교섭권이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "가족법"}
+{"question": "프로젝트 관리에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "장마에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "무선 이어폰에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "쇼핑"}
+{"question": "마라톤의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "스포츠"}
+{"question": "선물 추천에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "쇼핑"}
+{"question": "보이스피싱 피해의 법적 요건은 무엇이야?", "label": "legal", "category": "금융보험법"}
+{"question": "개인정보 국외이전에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "개인정보보호법"}
+{"question": "강도죄가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "형법"}
+{"question": "영상정보처리기기와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "개인정보보호법"}
+{"question": "테니스를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "스포츠"}
+{"question": "기여분은 어떤 경우에 인정돼?", "label": "legal", "category": "상속법"}
+{"question": "명예훼손죄에 필요한 증거는 무엇이야?", "label": "legal", "category": "형법"}
+{"question": "비밀번호 관리의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "IT 사용"}
+{"question": "보이스피싱 피해가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "금융보험법"}
+{"question": "독해 공부에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "언어"}
+{"question": "이직 준비에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "진로"}
+{"question": "살인죄에 필요한 증거는 무엇이야?", "label": "legal", "category": "형법"}
+{"question": "재개발에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "건설부동산법"}
+{"question": "사회복지시설이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "사회복지법"}
+{"question": "전세사기 피해를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "주택임대차법"}
+{"question": "특허출원의 법적 요건은 무엇이야?", "label": "legal", "category": "지식재산권법"}
+{"question": "영업비밀 침해는 어떤 경우에 인정돼?", "label": "legal", "category": "지식재산권법"}
+{"question": "리콜과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "소비자법"}
+{"question": "브랜드 이름과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "창작"}
+{"question": "개인정보 처리위탁에 필요한 증거는 무엇이야?", "label": "legal", "category": "개인정보보호법"}
+{"question": "표현의 자유의 법적 요건은 무엇이야?", "label": "legal", "category": "헌법출입국법"}
+{"question": "연락 습관을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "관계·소통"}
+{"question": "하루 일과에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "인사·일상"}
+{"question": "자기소개서의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "진로"}
+{"question": "월세 연체와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "주택임대차법"}
+{"question": "웹툰과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "연예"}
+{"question": "옷 정리에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "생활"}
+{"question": "렌터카 추천 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "교통정보"}
+{"question": "귀화허가는 어떤 경우에 인정돼?", "label": "legal", "category": "헌법출입국법"}
+{"question": "불법추심과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "금융보험법"}
+{"question": "통신판매는 어떤 경우에 인정돼?", "label": "legal", "category": "소비자법"}
+{"question": "초밥에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "음식"}
+{"question": "건축허가와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "건설부동산법"}
+{"question": "명상에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "건강생활"}
+{"question": "전세권은 어떤 경우에 인정돼?", "label": "legal", "category": "주택임대차법"}
+{"question": "국가배상과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "행정법"}
+{"question": "압수수색에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "형사소송법"}
+{"question": "과학 실험 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "교육"}
+{"question": "임금체불이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "노동법"}
+{"question": "경제 상식의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "일반상식"}
+{"question": "증여세가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "세법"}
+{"question": "맥북 단축키를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "IT 사용"}
+{"question": "의료기관 개설이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "의료법"}
+{"question": "사고 후 미조치를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "도로교통법"}
+{"question": "수면 습관과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "건강생활"}
+{"question": "기차 여행에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "여행"}
+{"question": "선물 추천에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "쇼핑"}
+{"question": "압수수색과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "형사소송법"}
+{"question": "특허권 침해와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "지식재산권법"}
+{"question": "한정승인에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "상속법"}
+{"question": "노인장기요양에 필요한 증거는 무엇이야?", "label": "legal", "category": "사회복지법"}
+{"question": "배출시설 허가의 법적 요건은 무엇이야?", "label": "legal", "category": "환경법"}
+{"question": "체류자격에 필요한 증거는 무엇이야?", "label": "legal", "category": "헌법출입국법"}
+{"question": "해양오염과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "환경법"}
+{"question": "헌법소원에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "헌법출입국법"}
+{"question": "대출 이자에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "금융보험법"}
+{"question": "목표 설정의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "생산성"}
+{"question": "배임죄에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "형법"}
+{"question": "친생자관계를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "가족법"}
+{"question": "자전거 운동과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "스포츠"}
+{"question": "노인장기요양과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "사회복지법"}
+{"question": "발음 교정 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "언어"}
+{"question": "중고 제품에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "쇼핑"}
+{"question": "프리랜서를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "진로"}
+{"question": "엑셀 자동화에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "캠핑 여행과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "여행"}
+{"question": "표현의 자유는 어떤 경우에 인정돼?", "label": "legal", "category": "헌법출입국법"}
+{"question": "불법건축물이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "건설부동산법"}
+{"question": "프린터 연결에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "IT 사용"}
+{"question": "보험계약 해지의 법적 요건은 무엇이야?", "label": "legal", "category": "금융보험법"}
+{"question": "이사회 결의에 필요한 증거는 무엇이야?", "label": "legal", "category": "상법"}
+{"question": "폰트 저작권과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "지식재산권법"}
+{"question": "경청의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "관계·소통"}
+{"question": "비밀누설에 필요한 증거는 무엇이야?", "label": "legal", "category": "의료법"}
+{"question": "친생자관계와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "가족법"}
+{"question": "근로계약이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "노동법"}
+{"question": "아침 계획의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "생산성"}
+{"question": "응급의료 거부와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "의료법"}
+{"question": "홈트레이닝에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "스포츠"}
+{"question": "감정 표현에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "관계·소통"}
+{"question": "와이파이 연결 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "IT 사용"}
+{"question": "의료과실에 필요한 증거는 무엇이야?", "label": "legal", "category": "의료법"}
+{"question": "프린터 연결과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "IT 사용"}
+{"question": "도시락 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "음식"}
+{"question": "퇴직금과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "노동법"}
+{"question": "응원 문구에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "인사·일상"}
+{"question": "골프를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "스포츠"}
+{"question": "사기죄와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "형법"}
+{"question": "월세 연체의 법적 요건은 무엇이야?", "label": "legal", "category": "주택임대차법"}
+{"question": "옷 정리에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "생활"}
+{"question": "형법에서 절도죄는 어떤 경우에 성립해?", "label": "legal", "category": "형법"}
+{"question": "전세보증금 반환을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "주택임대차법"}
+{"question": "부산에서 가볼 만한 곳이 어디야?", "label": "nonlegal", "category": "여행"}
+{"question": "영상정보처리기기가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "개인정보보호법"}
+{"question": "양육비와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "가족법"}
+{"question": "법률행위 취소의 법적 요건은 무엇이야?", "label": "legal", "category": "민법"}
+{"question": "일출 시간에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "사진 촬영의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "취미"}
+{"question": "홈트레이닝과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "스포츠"}
+{"question": "불법추심에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "금융보험법"}
+{"question": "테니스와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "스포츠"}
+{"question": "국적취득과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "헌법출입국법"}
+{"question": "노래 주제 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "창작"}
+{"question": "협의이혼에 필요한 증거는 무엇이야?", "label": "legal", "category": "가족법"}
+{"question": "채무불이행과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "민법"}
+{"question": "확정일자는 어떤 경우에 인정돼?", "label": "legal", "category": "주택임대차법"}
+{"question": "자연환경 훼손의 법적 요건은 무엇이야?", "label": "legal", "category": "환경법"}
+{"question": "커피에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "음식"}
+{"question": "일본 여행에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "여행"}
+{"question": "유언집행과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "상속법"}
+{"question": "영어 공부를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "교육"}
+{"question": "사기죄에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "형법"}
+{"question": "거절하는 방법에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "관계·소통"}
+{"question": "사고 후 미조치에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "도로교통법"}
+{"question": "법률행위 취소와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "민법"}
+{"question": "리콜에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "소비자법"}
+{"question": "불법행위의 법적 요건은 무엇이야?", "label": "legal", "category": "민법"}
+{"question": "성년후견은 어떤 경우에 인정돼?", "label": "legal", "category": "가족법"}
+{"question": "통신판매에 필요한 증거는 무엇이야?", "label": "legal", "category": "소비자법"}
+{"question": "심리학 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "일반상식"}
+{"question": "소설 제목에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "창작"}
+{"question": "상속세에 필요한 증거는 무엇이야?", "label": "legal", "category": "세법"}
+{"question": "감정 표현에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "관계·소통"}
+{"question": "임금체불에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "노동법"}
+{"question": "저작권 침해에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "지식재산권법"}
+{"question": "인공지능에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "공소시효가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "형사소송법"}
+{"question": "혼자 여행에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "여행"}
+{"question": "채무불이행에 필요한 증거는 무엇이야?", "label": "legal", "category": "민법"}
+{"question": "이사의 경업금지에 필요한 증거는 무엇이야?", "label": "legal", "category": "상법"}
+{"question": "물 마시기를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "건강생활"}
+{"question": "파이썬으로 파일 이름 출력하는 코드 알려줘", "label": "nonlegal", "category": "코딩"}
+{"question": "추리소설과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "연예"}
+{"question": "약관 무효를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "소비자법"}
+{"question": "미세먼지 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "날씨"}
+{"question": "음주측정을 거부하면 도로교통법상 어떤 문제가 생겨?", "label": "legal", "category": "도로교통법"}
+{"question": "상표등록과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "지식재산권법"}
+{"question": "가구 배치 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "생활"}
+{"question": "개인정보 열람요구는 어떤 경우에 인정돼?", "label": "legal", "category": "개인정보보호법"}
+{"question": "훔친 물건을 다시 돌려주면 절도죄가 없어져?", "label": "legal", "category": "형법"}
+{"question": "할부계약과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "소비자법"}
+{"question": "일출 시간과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "날씨"}
+{"question": "소음진동의 법적 요건은 무엇이야?", "label": "legal", "category": "환경법"}
+{"question": "공사대금은 어떤 경우에 인정돼?", "label": "legal", "category": "건설부동산법"}
+{"question": "블루투스 오류를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "IT 사용"}
+{"question": "처방전 발급의 법적 요건은 무엇이야?", "label": "legal", "category": "의료법"}
+{"question": "리액트 컴포넌트의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "코딩"}
+{"question": "대표이사 책임에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "상법"}
+{"question": "과태료와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "행정법"}
+{"question": "운전면허 취소에 필요한 증거는 무엇이야?", "label": "legal", "category": "도로교통법"}
+{"question": "진료기록 열람의 법적 요건은 무엇이야?", "label": "legal", "category": "의료법"}
+{"question": "냉장고 정리에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "생활"}
+{"question": "전자상거래 환불이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "소비자법"}
+{"question": "도보 길찾기에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "교통정보"}
+{"question": "걷기 운동을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "건강생활"}
+{"question": "위자료가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "가족법"}
+{"question": "주주대표소송은 어떤 경우에 인정돼?", "label": "legal", "category": "상법"}
+{"question": "캐릭터 이름에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "창작"}
+{"question": "세금 체납을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "세법"}
+{"question": "아침 루틴의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "인사·일상"}
+{"question": "파스타에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "음식"}
+{"question": "불법추심의 법적 요건은 무엇이야?", "label": "legal", "category": "금융보험법"}
+{"question": "면접 영어 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "언어"}
+{"question": "전세사기 피해와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "주택임대차법"}
+{"question": "살인죄의 법적 요건은 무엇이야?", "label": "legal", "category": "형법"}
+{"question": "난민인정은 어떤 경우에 인정돼?", "label": "legal", "category": "헌법출입국법"}
+{"question": "취업 공부의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "진로"}
+{"question": "세무조사에 필요한 증거는 무엇이야?", "label": "legal", "category": "세법"}
+{"question": "낚시의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "취미"}
+{"question": "재산권은 어떤 경우에 인정돼?", "label": "legal", "category": "헌법출입국법"}
+{"question": "공사대금에 필요한 증거는 무엇이야?", "label": "legal", "category": "건설부동산법"}
+{"question": "협의이혼에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "가족법"}
+{"question": "연대채무는 어떤 경우에 인정돼?", "label": "legal", "category": "금융보험법"}
+{"question": "부당해고는 어떤 경우에 인정돼?", "label": "legal", "category": "노동법"}
+{"question": "농구 슛과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "스포츠"}
+{"question": "브랜드 이름에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "창작"}
+{"question": "기차 시간과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "교통정보"}
+{"question": "철학에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "명의신탁의 법적 요건은 무엇이야?", "label": "legal", "category": "건설부동산법"}
+{"question": "건강보험은 어떤 경우에 인정돼?", "label": "legal", "category": "사회복지법"}
+{"question": "중고 제품에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "쇼핑"}
+{"question": "음주측정 요구는 아무 때나 할 수 있어, 아니면 요건이 필요해?", "label": "legal", "category": "도로교통법"}
+{"question": "확정일자가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "주택임대차법"}
+{"question": "약관 무효에 필요한 증거는 무엇이야?", "label": "legal", "category": "소비자법"}
+{"question": "Docker 이미지에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "영업정지에 필요한 증거는 무엇이야?", "label": "legal", "category": "행정법"}
+{"question": "회사 합병의 법적 요건은 무엇이야?", "label": "legal", "category": "상법"}
+{"question": "사진 촬영 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "취미"}
+{"question": "물 마시기의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "건강생활"}
+{"question": "시간 관리에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "인사·일상"}
+{"question": "상속채무와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "상속법"}
+{"question": "사과하는 방법 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "관계·소통"}
+{"question": "심리학에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "긴급복지지원과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "사회복지법"}
+{"question": "연대채무와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "금융보험법"}
+{"question": "주간 회고에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "공동저작물과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "지식재산권법"}
+{"question": "중고 제품 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "쇼핑"}
+{"question": "대항력에 필요한 증거는 무엇이야?", "label": "legal", "category": "주택임대차법"}
+{"question": "CSS 정렬을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "중고거래 분쟁은 어떤 경우에 인정돼?", "label": "legal", "category": "소비자법"}
+{"question": "상속세와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "세법"}
+{"question": "경청 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "관계·소통"}
+{"question": "임차권등기의 법적 요건은 무엇이야?", "label": "legal", "category": "주택임대차법"}
+{"question": "상속포기가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "상속법"}
+{"question": "연락 습관에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "관계·소통"}
+{"question": "보석을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "형사소송법"}
+{"question": "사실혼은 어떤 경우에 인정돼?", "label": "legal", "category": "가족법"}
+{"question": "역사 공부에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "교육"}
+{"question": "소멸시효를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "민법"}
+{"question": "행정소송과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "행정법"}
+{"question": "한정승인은 어떤 경우에 인정돼?", "label": "legal", "category": "상속법"}
+{"question": "야식에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "음식"}
+{"question": "프리랜서에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "진로"}
+{"question": "상속세에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "세법"}
+{"question": "점심 메뉴 추천해줘", "label": "nonlegal", "category": "음식"}
+{"question": "브라우저 캐시에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "IT 사용"}
+{"question": "협박죄의 법적 요건은 무엇이야?", "label": "legal", "category": "형법"}
+{"question": "의료기관 개설에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "의료법"}
+{"question": "SQL 조인 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "코딩"}
+{"question": "약관 무효에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "소비자법"}
+{"question": "무면허운전은 어떤 경우에 인정돼?", "label": "legal", "category": "도로교통법"}
+{"question": "선물 추천과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "쇼핑"}
+{"question": "인턴 지원에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "진로"}
+{"question": "고전문학에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "취업 공부에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "진로"}
+{"question": "불법행위는 어떤 경우에 인정돼?", "label": "legal", "category": "민법"}
+{"question": "약관 무효와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "소비자법"}
+{"question": "지하철 환승에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "교통정보"}
+{"question": "팀워크 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "관계·소통"}
+{"question": "건축허가와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "건설부동산법"}
+{"question": "친구와 갈등에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "관계·소통"}
+{"question": "혼자 여행 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "여행"}
+{"question": "장애인 복지를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "사회복지법"}
+{"question": "유럽 배낭여행에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "여행"}
+{"question": "배드민턴에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "스포츠"}
+{"question": "국가배상에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "행정법"}
+{"question": "영업양도에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "상법"}
+{"question": "폐기물 처리는 어떤 경우에 인정돼?", "label": "legal", "category": "환경법"}
+{"question": "세탁 방법에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "생활"}
+{"question": "변호인 조력권의 법적 요건은 무엇이야?", "label": "legal", "category": "형사소송법"}
+{"question": "폭행죄의 법적 요건은 무엇이야?", "label": "legal", "category": "형법"}
+{"question": "전세권이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "주택임대차법"}
+{"question": "상표권 침해에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "지식재산권법"}
+{"question": "배출시설 허가에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "환경법"}
+{"question": "캘리그래피에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "취미"}
+{"question": "행정처분 취소는 어떤 경우에 인정돼?", "label": "legal", "category": "행정법"}
+{"question": "자료 정리 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "생산성"}
+{"question": "수습기간의 법적 요건은 무엇이야?", "label": "legal", "category": "노동법"}
+{"question": "감정 표현에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "관계·소통"}
+{"question": "부동산 중개가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "건설부동산법"}
+{"question": "유튜브 아이디어와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "창작"}
+{"question": "한식에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "음식"}
+{"question": "확정일자의 법적 요건은 무엇이야?", "label": "legal", "category": "주택임대차법"}
+{"question": "건강보험을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "사회복지법"}
+{"question": "양육비와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "가족법"}
+{"question": "보드게임과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "취미"}
+{"question": "대출 이자의 법적 요건은 무엇이야?", "label": "legal", "category": "금융보험법"}
+{"question": "연장근로수당의 법적 요건은 무엇이야?", "label": "legal", "category": "노동법"}
+{"question": "보이스피싱 피해는 어떤 경우에 인정돼?", "label": "legal", "category": "금융보험법"}
+{"question": "암기 방법을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "교육"}
+{"question": "친구와 갈등과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "관계·소통"}
+{"question": "우선변제권과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "주택임대차법"}
+{"question": "샐러드와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "음식"}
+{"question": "등산의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "스포츠"}
+{"question": "유해화학물질과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "환경법"}
+{"question": "난폭운전과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "도로교통법"}
+{"question": "긴급체포와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "형사소송법"}
+{"question": "발표 제목에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "창작"}
+{"question": "상속포기와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "상속법"}
+{"question": "자전거 경로의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "교통정보"}
+{"question": "우주 탐사에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "재산권과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "헌법출입국법"}
+{"question": "초밥과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "음식"}
+{"question": "무면허 의료행위가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "의료법"}
+{"question": "조세불복과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "세법"}
+{"question": "재산권을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "헌법출입국법"}
+{"question": "법률 사무소 로고 색상을 추천해줘.", "label": "nonlegal", "category": "법률표현 비법률"}
+{"question": "목표 설정에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "살인죄가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "형법"}
+{"question": "환자 동의와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "의료법"}
+{"question": "의료인 면허대여를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "의료법"}
+{"question": "보이스피싱 피해에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "금융보험법"}
+{"question": "파일 압축에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "IT 사용"}
+{"question": "세탁 방법의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "생활"}
+{"question": "의료과실이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "의료법"}
+{"question": "계약 해제에 필요한 증거는 무엇이야?", "label": "legal", "category": "민법"}
+{"question": "간호사 업무범위와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "의료법"}
+{"question": "시간이 지난 뒤 측정한 혈중알코올농도는 어떻게 판단해?", "label": "legal", "category": "도로교통법"}
+{"question": "저작인격권을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "지식재산권법"}
+{"question": "자기소개의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "인사·일상"}
+{"question": "API 호출에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "진료기록 열람에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "의료법"}
+{"question": "친구와 대화를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "인사·일상"}
+{"question": "직장 동료에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "관계·소통"}
+{"question": "신호위반이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "도로교통법"}
+{"question": "고용보험과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "사회복지법"}
+{"question": "예능 프로그램에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "연예"}
+{"question": "형법 책 표지 디자인 아이디어를 줘", "label": "nonlegal", "category": "법률표현 비법률"}
+{"question": "사기죄는 어떤 경우에 인정돼?", "label": "legal", "category": "형법"}
+{"question": "재심의 법적 요건은 무엇이야?", "label": "legal", "category": "형사소송법"}
+{"question": "연차휴가에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "노동법"}
+{"question": "동화 이야기를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "창작"}
+{"question": "재량권 일탈에 필요한 증거는 무엇이야?", "label": "legal", "category": "행정법"}
+{"question": "고소의 법적 요건은 무엇이야?", "label": "legal", "category": "형사소송법"}
+{"question": "면접 준비에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "진로"}
+{"question": "세금 체납에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "세법"}
+{"question": "공항 이동을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "교통정보"}
+{"question": "쓰레기 분리배출과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "생활"}
+{"question": "의료과실과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "의료법"}
+{"question": "일출 시간의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "날씨"}
+{"question": "목공에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "취미"}
+{"question": "토지경계는 어떤 경우에 인정돼?", "label": "legal", "category": "건설부동산법"}
+{"question": "시험 계획의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "교육"}
+{"question": "책상 의자와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "쇼핑"}
+{"question": "과징금에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "행정법"}
+{"question": "물 마시기 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "건강생활"}
+{"question": "상속결격에 필요한 증거는 무엇이야?", "label": "legal", "category": "상속법"}
+{"question": "야구 규칙에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "스포츠"}
+{"question": "부산 여행에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "여행"}
+{"question": "야간에 문을 부수고 들어가 물건을 훔치면 어떤 죄가 성립해?", "label": "legal", "category": "형법"}
+{"question": "개인회생에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "금융보험법"}
+{"question": "웹툰 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "연예"}
+{"question": "소설 제목에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "창작"}
+{"question": "렌터카 추천에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "교통정보"}
+{"question": "상속채무에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "상속법"}
+{"question": "직무 선택에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "진로"}
+{"question": "보험사기에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "금융보험법"}
+{"question": "한국사를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "보험사기의 법적 요건은 무엇이야?", "label": "legal", "category": "금융보험법"}
+{"question": "한정승인과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "상속법"}
+{"question": "축하 카드 문구에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "창작"}
+{"question": "수질오염과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "환경법"}
+{"question": "API 호출 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "코딩"}
+{"question": "회의 정리에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "독해 공부와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "언어"}
+{"question": "평등권과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "헌법출입국법"}
+{"question": "이직 준비 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "진로"}
+{"question": "가족 여행에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "여행"}
+{"question": "잡담 주제를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "인사·일상"}
+{"question": "인공지능에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "작문 연습과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "언어"}
+{"question": "증거능력의 법적 요건은 무엇이야?", "label": "legal", "category": "형사소송법"}
+{"question": "가구 배치와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "생활"}
+{"question": "불법건축물은 어떤 경우에 인정돼?", "label": "legal", "category": "건설부동산법"}
+{"question": "베이킹 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "취미"}
+{"question": "가족 대화에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "관계·소통"}
+{"question": "면접교섭권과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "가족법"}
+{"question": "습도에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "유럽 배낭여행의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "여행"}
+{"question": "정보공개청구를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "행정법"}
+{"question": "상속재산분할과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "상속법"}
+{"question": "신호위반과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "도로교통법"}
+{"question": "약관 무효의 법적 요건은 무엇이야?", "label": "legal", "category": "소비자법"}
+{"question": "의료인 면허대여의 법적 요건은 무엇이야?", "label": "legal", "category": "의료법"}
+{"question": "블루투스 오류 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "IT 사용"}
+{"question": "요가에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "스포츠"}
+{"question": "귀화허가에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "헌법출입국법"}
+{"question": "버스 노선의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "교통정보"}
+{"question": "렌터카 추천의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "교통정보"}
+{"question": "노인장기요양을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "사회복지법"}
+{"question": "법정상속은 어떤 경우에 인정돼?", "label": "legal", "category": "상속법"}
+{"question": "태양계 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "일반상식"}
+{"question": "손실보상에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "행정법"}
+{"question": "과학 실험에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "교육"}
+{"question": "등산에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "스포츠"}
+{"question": "주주의 권리를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "상법"}
+{"question": "하루 일과에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "인사·일상"}
+{"question": "가성비 제품과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "쇼핑"}
+{"question": "근로계약에 필요한 증거는 무엇이야?", "label": "legal", "category": "노동법"}
+{"question": "겨울 한파의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "날씨"}
+{"question": "스트레칭 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "건강생활"}
+{"question": "증거능력과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "형사소송법"}
+{"question": "무면허운전의 법적 요건은 무엇이야?", "label": "legal", "category": "도로교통법"}
+{"question": "아침 계획에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "업무 우선순위와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "생산성"}
+{"question": "기여분의 법적 요건은 무엇이야?", "label": "legal", "category": "상속법"}
+{"question": "행정소송에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "행정법"}
+{"question": "퇴직금은 어떤 경우에 인정돼?", "label": "legal", "category": "노동법"}
+{"question": "운전 당시가 아니라 운전 후에 측정한 수치도 증거로 쓸 수 있어?", "label": "legal", "category": "도로교통법"}
+{"question": "팀워크에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "관계·소통"}
+{"question": "브랜드 이름에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "창작"}
+{"question": "소비자 피해보상을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "소비자법"}
+{"question": "대리권과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "민법"}
+{"question": "간단한 아침을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "음식"}
+{"question": "변호인 조력권은 어떤 경우에 인정돼?", "label": "legal", "category": "형사소송법"}
+{"question": "상속채무가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "상속법"}
+{"question": "메모 방법과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "생산성"}
+{"question": "응원 문구를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "인사·일상"}
+{"question": "업무 우선순위의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "생산성"}
+{"question": "주민등록번호 처리를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "개인정보보호법"}
+{"question": "책상 의자에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "쇼핑"}
+{"question": "노래 주제와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "창작"}
+{"question": "프리랜서의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "진로"}
+{"question": "냉장고 정리와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "생활"}
+{"question": "약관 무효와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "소비자법"}
+{"question": "습도에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "금융상품 불완전판매가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "금융보험법"}
+{"question": "재판상 이혼은 어떤 경우에 인정돼?", "label": "legal", "category": "가족법"}
+{"question": "건강보험에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "사회복지법"}
+{"question": "전기 절약 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "생활"}
+{"question": "직장 동료에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "관계·소통"}
+{"question": "민감정보 처리와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "개인정보보호법"}
+{"question": "한국 드라마에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "연예"}
+{"question": "무면허운전에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "도로교통법"}
+{"question": "유류분을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "상속법"}
+{"question": "방문판매를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "소비자법"}
+{"question": "체류자격과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "헌법출입국법"}
+{"question": "보증금 증액에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "주택임대차법"}
+{"question": "한국사의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "일반상식"}
+{"question": "진료기록 열람이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "의료법"}
+{"question": "우주 탐사에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "대습상속을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "상속법"}
+{"question": "업무 우선순위에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "기차 시간에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "교통정보"}
+{"question": "한정승인을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "상속법"}
+{"question": "상속세를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "세법"}
+{"question": "Git 브랜치와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "코딩"}
+{"question": "일본 여행에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "여행"}
+{"question": "인턴 지원에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "진로"}
+{"question": "건강보험과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "사회복지법"}
+{"question": "한식에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "음식"}
+{"question": "연장근로수당은 어떤 경우에 인정돼?", "label": "legal", "category": "노동법"}
+{"question": "습도를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "상속포기에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "상속법"}
+{"question": "사진 촬영에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "취미"}
+{"question": "손해배상에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "민법"}
+{"question": "그림 그리기의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "취미"}
+{"question": "주주총회의 법적 요건은 무엇이야?", "label": "legal", "category": "상법"}
+{"question": "자기소개서에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "진로"}
+{"question": "주말 영화에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "연예"}
+{"question": "전세보증금 반환의 법적 요건은 무엇이야?", "label": "legal", "category": "주택임대차법"}
+{"question": "통신판매와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "소비자법"}
+{"question": "장마 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "날씨"}
+{"question": "할부계약과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "소비자법"}
+{"question": "신발 관리에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "생활"}
+{"question": "수면 습관을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "건강생활"}
+{"question": "헌법 책을 꽂아둘 책장을 추천해줘.", "label": "nonlegal", "category": "법률표현 비법률"}
+{"question": "보험계약 해지와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "금융보험법"}
+{"question": "특허권 침해에 필요한 증거는 무엇이야?", "label": "legal", "category": "지식재산권법"}
+{"question": "소개팅 대화를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "관계·소통"}
+{"question": "피로 관리에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "건강생활"}
+{"question": "하도급대금과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "건설부동산법"}
+{"question": "우주 탐사에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "의료광고가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "의료법"}
+{"question": "위치정보 수집을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "개인정보보호법"}
+{"question": "원천징수를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "세법"}
+{"question": "감정 표현의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "관계·소통"}
+{"question": "출퇴근 경로 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "교통정보"}
+{"question": "브라우저 캐시에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "IT 사용"}
+{"question": "처분 사전통지의 법적 요건은 무엇이야?", "label": "legal", "category": "행정법"}
+{"question": "고전문학과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "일반상식"}
+{"question": "한정승인이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "상속법"}
+{"question": "주주대표소송과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "상법"}
+{"question": "도로교통법을 주제로 삼행시를 만들어줘", "label": "nonlegal", "category": "법률표현 비법률"}
+{"question": "행정심판과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "행정법"}
+{"question": "유치권과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "건설부동산법"}
+{"question": "귀화허가에 필요한 증거는 무엇이야?", "label": "legal", "category": "헌법출입국법"}
+{"question": "주말 영화와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "연예"}
+{"question": "상속결격과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "상속법"}
+{"question": "영어 단어에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "언어"}
+{"question": "정기결제 해지와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "소비자법"}
+{"question": "FastAPI 라우터에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "야구 규칙과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "스포츠"}
+{"question": "테니스에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "스포츠"}
+{"question": "약관 무효가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "소비자법"}
+{"question": "리콜은 어떤 경우에 인정돼?", "label": "legal", "category": "소비자법"}
+{"question": "축구 경기에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "스포츠"}
+{"question": "영어 공부에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "교육"}
+{"question": "영업양도의 법적 요건은 무엇이야?", "label": "legal", "category": "상법"}
+{"question": "면접교섭권을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "가족법"}
+{"question": "전기 절약과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "생활"}
+{"question": "블로그 제목에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "창작"}
+{"question": "재량권 일탈이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "행정법"}
+{"question": "파이썬 반복문을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "게임 설정에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "창작"}
+{"question": "할부계약이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "소비자법"}
+{"question": "소비자 피해보상과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "소비자법"}
+{"question": "기초생활보장에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "사회복지법"}
+{"question": "손실보상과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "행정법"}
+{"question": "노트북 추천에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "쇼핑"}
+{"question": "회의 정리와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "생산성"}
+{"question": "직장 내 괴롭힘에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "노동법"}
+{"question": "보증금 증액에 필요한 증거는 무엇이야?", "label": "legal", "category": "주택임대차법"}
+{"question": "협박죄가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "형법"}
+{"question": "과속운전에 필요한 증거는 무엇이야?", "label": "legal", "category": "도로교통법"}
+{"question": "한국어 맞춤법에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "언어"}
+{"question": "맛집 여행에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "여행"}
+{"question": "면접 준비와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "진로"}
+{"question": "부당해고를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "노동법"}
+{"question": "칭찬하는 방법에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "관계·소통"}
+{"question": "낚시와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "취미"}
+{"question": "대항력과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "주택임대차법"}
+{"question": "간단한 아침에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "음식"}
+{"question": "상표권 침해와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "지식재산권법"}
+{"question": "허위광고는 어떤 경우에 인정돼?", "label": "legal", "category": "소비자법"}
+{"question": "체력 관리와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "건강생활"}
+{"question": "토지수용에 필요한 증거는 무엇이야?", "label": "legal", "category": "건설부동산법"}
+{"question": "배출시설 허가를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "환경법"}
+{"question": "거절하는 방법에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "관계·소통"}
+{"question": "냉장고 정리에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "생활"}
+{"question": "커피머신에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "쇼핑"}
+{"question": "파이썬 반복문에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "영어 단어에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "언어"}
+{"question": "브라우저 캐시와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "IT 사용"}
+{"question": "발표 제목에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "창작"}
+{"question": "시험 계획에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "교육"}
+{"question": "연대채무를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "금융보험법"}
+{"question": "수영에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "스포츠"}
+{"question": "노래 주제의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "창작"}
+{"question": "비밀누설의 법적 요건은 무엇이야?", "label": "legal", "category": "의료법"}
+{"question": "제품 하자와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "소비자법"}
+{"question": "간호사 업무범위와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "의료법"}
+{"question": "개인정보 처리위탁과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "개인정보보호법"}
+{"question": "개인정보 수집을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "개인정보보호법"}
+{"question": "기본권 침해가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "헌법출입국법"}
+{"question": "악취 피해에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "환경법"}
+{"question": "감정 표현에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "관계·소통"}
+{"question": "포트폴리오 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "진로"}
+{"question": "마케팅 정보 이용의 법적 요건은 무엇이야?", "label": "legal", "category": "개인정보보호법"}
+{"question": "배임죄에 필요한 증거는 무엇이야?", "label": "legal", "category": "형법"}
+{"question": "주차장 찾기 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "교통정보"}
+{"question": "특허권 침해에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "지식재산권법"}
+{"question": "중앙선 침범을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "도로교통법"}
+{"question": "친생자관계의 법적 요건은 무엇이야?", "label": "legal", "category": "가족법"}
+{"question": "주주의 권리에 필요한 증거는 무엇이야?", "label": "legal", "category": "상법"}
+{"question": "명의신탁과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "건설부동산법"}
+{"question": "책상 의자에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "쇼핑"}
+{"question": "뜨개질에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "취미"}
+{"question": "위자료는 어떤 경우에 인정돼?", "label": "legal", "category": "가족법"}
+{"question": "명예훼손죄와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "형법"}
+{"question": "영어 회화와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "언어"}
+{"question": "사실혼에 필요한 증거는 무엇이야?", "label": "legal", "category": "가족법"}
+{"question": "가산세에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "세법"}
+{"question": "렌터카 추천과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "교통정보"}
+{"question": "보증금 증액과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "주택임대차법"}
+{"question": "과태료에 필요한 증거는 무엇이야?", "label": "legal", "category": "행정법"}
+{"question": "이력서 작성에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "진로"}
+{"question": "습도 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "날씨"}
+{"question": "마라톤에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "스포츠"}
+{"question": "신호위반과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "도로교통법"}
+{"question": "응원 문구와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "인사·일상"}
+{"question": "일교차에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "고소에 필요한 증거는 무엇이야?", "label": "legal", "category": "형사소송법"}
+{"question": "상속포기의 법적 요건은 무엇이야?", "label": "legal", "category": "상속법"}
+{"question": "번역 연습에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "언어"}
+{"question": "변호인 조력권에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "형사소송법"}
+{"question": "상속채무의 법적 요건은 무엇이야?", "label": "legal", "category": "상속법"}
+{"question": "블루투스 오류의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "IT 사용"}
+{"question": "양육권과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "가족법"}
+{"question": "뜨개질의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "취미"}
+{"question": "배드민턴과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "스포츠"}
+{"question": "독해 공부의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "언어"}
+{"question": "역사 공부 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "교육"}
+{"question": "샐러드에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "음식"}
+{"question": "개인정보 유출의 법적 요건은 무엇이야?", "label": "legal", "category": "개인정보보호법"}
+{"question": "사고 후 피해자 구호조치를 하지 않고 현장을 떠나면 어떻게 돼?", "label": "legal", "category": "도로교통법"}
+{"question": "파일 압축과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "IT 사용"}
+{"question": "온라인 강의에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "교육"}
+{"question": "장애인 복지와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "사회복지법"}
+{"question": "야구 규칙에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "스포츠"}
+{"question": "자료 정리의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "생산성"}
+{"question": "난폭운전에 필요한 증거는 무엇이야?", "label": "legal", "category": "도로교통법"}
+{"question": "간호사 업무범위에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "의료법"}
+{"question": "호흡 운동에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "건강생활"}
+{"question": "추리소설에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "연예"}
+{"question": "여객선 시간에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "교통정보"}
+{"question": "베이킹에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "취미"}
+{"question": "운동화 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "쇼핑"}
+{"question": "농구 슛에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "스포츠"}
+{"question": "신주발행에 필요한 증거는 무엇이야?", "label": "legal", "category": "상법"}
+{"question": "샐러드에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "음식"}
+{"question": "비즈니스 이메일에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "언어"}
+{"question": "환자 동의에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "의료법"}
+{"question": "SQL 조인에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "양육비를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "가족법"}
+{"question": "뜨개질과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "취미"}
+{"question": "Docker 이미지에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "청문은 어떤 경우에 인정돼?", "label": "legal", "category": "행정법"}
+{"question": "연대채무의 법적 요건은 무엇이야?", "label": "legal", "category": "금융보험법"}
+{"question": "국적취득의 법적 요건은 무엇이야?", "label": "legal", "category": "헌법출입국법"}
+{"question": "운동화에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "쇼핑"}
+{"question": "헌법소원이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "헌법출입국법"}
+{"question": "횡령죄가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "형법"}
+{"question": "위자료와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "가족법"}
+{"question": "한국사에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "특허출원에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "지식재산권법"}
+{"question": "도예와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "취미"}
+{"question": "상속재산분할이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "상속법"}
+{"question": "비정규직 차별을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "노동법"}
+{"question": "개인정보 수집이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "개인정보보호법"}
+{"question": "상속재산분할을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "상속법"}
+{"question": "우선변제권에 필요한 증거는 무엇이야?", "label": "legal", "category": "주택임대차법"}
+{"question": "간단한 아침 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "음식"}
+{"question": "야구 규칙의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "스포츠"}
+{"question": "유류분과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "상속법"}
+{"question": "영업정지의 법적 요건은 무엇이야?", "label": "legal", "category": "행정법"}
+{"question": "출퇴근 경로를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "교통정보"}
+{"question": "출퇴근 경로의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "교통정보"}
+{"question": "건설하자에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "건설부동산법"}
+{"question": "캐릭터 이름에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "창작"}
+{"question": "집중력의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "교육"}
+{"question": "암기 방법의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "교육"}
+{"question": "스트레칭에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "건강생활"}
+{"question": "전자상거래 환불과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "소비자법"}
+{"question": "전자책 단말기와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "쇼핑"}
+{"question": "보험금 지급을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "금융보험법"}
+{"question": "난민인정과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "헌법출입국법"}
+{"question": "중식을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "음식"}
+{"question": "보증금 증액과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "주택임대차법"}
+{"question": "마라톤에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "스포츠"}
+{"question": "비밀번호 관리에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "IT 사용"}
+{"question": "야식을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "음식"}
+{"question": "출퇴근 경로에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "교통정보"}
+{"question": "연장근로수당에 필요한 증거는 무엇이야?", "label": "legal", "category": "노동법"}
+{"question": "짧은 시를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "창작"}
+{"question": "한국사에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "시간 관리에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "인사·일상"}
+{"question": "광고 문구에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "창작"}
+{"question": "환경분쟁조정에 필요한 증거는 무엇이야?", "label": "legal", "category": "환경법"}
+{"question": "자격증 공부에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "교육"}
+{"question": "초밥을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "음식"}
+{"question": "일본어 인사에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "언어"}
+{"question": "세탁 방법과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "생활"}
+{"question": "대습상속과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "상속법"}
+{"question": "유언집행의 법적 요건은 무엇이야?", "label": "legal", "category": "상속법"}
+{"question": "특허출원과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "지식재산권법"}
+{"question": "수영과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "스포츠"}
+{"question": "일정 관리에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "팝송에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "연예"}
+{"question": "리액트 컴포넌트에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "설명의무의 법적 요건은 무엇이야?", "label": "legal", "category": "의료법"}
+{"question": "건축 양식에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "카메라에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "쇼핑"}
+{"question": "압수수색을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "형사소송법"}
+{"question": "친구와 대화에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "인사·일상"}
+{"question": "발표 제목에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "창작"}
+{"question": "체력 관리에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "건강생활"}
+{"question": "마라톤 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "스포츠"}
+{"question": "공소시효에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "형사소송법"}
+{"question": "진료기록 열람과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "의료법"}
+{"question": "보험금 지급은 어떤 경우에 인정돼?", "label": "legal", "category": "금융보험법"}
+{"question": "파산면책에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "금융보험법"}
+{"question": "주주의 권리의 법적 요건은 무엇이야?", "label": "legal", "category": "상법"}
+{"question": "난민인정과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "헌법출입국법"}
+{"question": "개인정보 제3자 제공과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "개인정보보호법"}
+{"question": "개인정보 수집의 법적 요건은 무엇이야?", "label": "legal", "category": "개인정보보호법"}
+{"question": "대항력과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "주택임대차법"}
+{"question": "공룡의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "일반상식"}
+{"question": "추리소설에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "연예"}
+{"question": "집중력에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "교육"}
+{"question": "대리권과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "민법"}
+{"question": "온라인 강의를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "교육"}
+{"question": "겨울 코트와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "쇼핑"}
+{"question": "독해 공부에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "언어"}
+{"question": "뮤지컬에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "연예"}
+{"question": "소개팅 대화와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "관계·소통"}
+{"question": "난폭운전을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "도로교통법"}
+{"question": "비밀번호 관리에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "IT 사용"}
+{"question": "환경영향평가에 필요한 증거는 무엇이야?", "label": "legal", "category": "환경법"}
+{"question": "퍼즐의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "취미"}
+{"question": "개인정보 삭제요구와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "개인정보보호법"}
+{"question": "공룡에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "사진 촬영을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "취미"}
+{"question": "영업비밀 침해에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "지식재산권법"}
+{"question": "여름 더위의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "날씨"}
+{"question": "쓰레기 분리배출의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "생활"}
+{"question": "식물 키우기에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "취미"}
+{"question": "일본 여행을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "여행"}
+{"question": "회의 정리에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "할 일 관리를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "장마에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "자전거 운동에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "스포츠"}
+{"question": "철학을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "API 호출에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "사고 후 미조치와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "도로교통법"}
+{"question": "중식에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "음식"}
+{"question": "수학 공부와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "교육"}
+{"question": "짧은 시의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "창작"}
+{"question": "자전거 경로에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "교통정보"}
+{"question": "수습기간과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "노동법"}
+{"question": "지하철 환승에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "교통정보"}
+{"question": "스마트폰 백업에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "IT 사용"}
+{"question": "잡담 주제에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "인사·일상"}
+{"question": "명상의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "건강생활"}
+{"question": "Git 브랜치를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "전자상거래 환불을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "소비자법"}
+{"question": "전세권의 법적 요건은 무엇이야?", "label": "legal", "category": "주택임대차법"}
+{"question": "자기소개 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "인사·일상"}
+{"question": "부당해고와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "노동법"}
+{"question": "경제 상식과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "일반상식"}
+{"question": "디저트를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "음식"}
+{"question": "디저트에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "음식"}
+{"question": "중고거래 분쟁이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "소비자법"}
+{"question": "노인장기요양과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "사회복지법"}
+{"question": "진료기록 열람을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "의료법"}
+{"question": "주거침입죄는 어떤 경우에 인정돼?", "label": "legal", "category": "형법"}
+{"question": "무면허 의료행위에 필요한 증거는 무엇이야?", "label": "legal", "category": "의료법"}
+{"question": "건축허가의 법적 요건은 무엇이야?", "label": "legal", "category": "건설부동산법"}
+{"question": "애니메이션에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "연예"}
+{"question": "살인죄를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "형법"}
+{"question": "살인죄와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "형법"}
+{"question": "강제퇴거와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "헌법출입국법"}
+{"question": "배우 작품에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "연예"}
+{"question": "예능 프로그램 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "연예"}
+{"question": "Git 브랜치에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "개인회생이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "금융보험법"}
+{"question": "쓰레기 분리배출에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "생활"}
+{"question": "국가배상과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "행정법"}
+{"question": "자세 교정에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "건강생활"}
+{"question": "SQL 조인에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "회의 정리의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "생산성"}
+{"question": "파산면책의 법적 요건은 무엇이야?", "label": "legal", "category": "금융보험법"}
+{"question": "노트 정리를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "교육"}
+{"question": "부산 여행 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "여행"}
+{"question": "부가가치세와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "세법"}
+{"question": "HTML 표에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "폰트 저작권에 필요한 증거는 무엇이야?", "label": "legal", "category": "지식재산권법"}
+{"question": "임차권등기가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "주택임대차법"}
+{"question": "신용정보와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "금융보험법"}
+{"question": "저작인격권과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "지식재산권법"}
+{"question": "고속도로 교통 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "교통정보"}
+{"question": "정규표현식에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "주민등록번호 처리에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "개인정보보호법"}
+{"question": "여객선 시간에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "교통정보"}
+{"question": "파산면책에 필요한 증거는 무엇이야?", "label": "legal", "category": "금융보험법"}
+{"question": "형법이라는 제목의 소설 줄거리를 만들어줘.", "label": "nonlegal", "category": "법률표현 비법률"}
+{"question": "안녕하세요", "label": "nonlegal", "category": "인사·일상"}
+{"question": "발음 교정의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "언어"}
+{"question": "커피를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "음식"}
+{"question": "공소시효에 필요한 증거는 무엇이야?", "label": "legal", "category": "형사소송법"}
+{"question": "영어 공부와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "교육"}
+{"question": "택시 이용의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "교통정보"}
+{"question": "커리어 계획을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "진로"}
+{"question": "가성비 제품에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "쇼핑"}
+{"question": "대리권에 필요한 증거는 무엇이야?", "label": "legal", "category": "민법"}
+{"question": "개인정보 열람요구에 필요한 증거는 무엇이야?", "label": "legal", "category": "개인정보보호법"}
+{"question": "중국어 발음 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "언어"}
+{"question": "일정 관리의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "생산성"}
+{"question": "연대보증과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "민법"}
+{"question": "건설하자와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "건설부동산법"}
+{"question": "정규표현식에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "철학의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "일반상식"}
+{"question": "주말 비 소식에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "자연환경 훼손을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "환경법"}
+{"question": "자격증 공부를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "교육"}
+{"question": "습도에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "응급의료 거부를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "의료법"}
+{"question": "홈트레이닝의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "스포츠"}
+{"question": "전자책 단말기의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "쇼핑"}
+{"question": "축구 경기에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "스포츠"}
+{"question": "번역 연습 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "언어"}
+{"question": "의료기관 개설의 법적 요건은 무엇이야?", "label": "legal", "category": "의료법"}
+{"question": "토양오염이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "환경법"}
+{"question": "캘리그래피에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "취미"}
+{"question": "브랜드 이름을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "창작"}
+{"question": "과태료와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "행정법"}
+{"question": "행정처분 취소에 필요한 증거는 무엇이야?", "label": "legal", "category": "행정법"}
+{"question": "여행 가방과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "쇼핑"}
+{"question": "이사 준비에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "생활"}
+{"question": "자세 교정에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "건강생활"}
+{"question": "렌터카 추천을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "교통정보"}
+{"question": "과학 실험에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "교육"}
+{"question": "HTML 표의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "코딩"}
+{"question": "유언의 법적 요건은 무엇이야?", "label": "legal", "category": "상속법"}
+{"question": "원천징수와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "세법"}
+{"question": "소프트웨어 불법복제는 어떤 경우에 인정돼?", "label": "legal", "category": "지식재산권법"}
+{"question": "세계사에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "대항력은 어떤 경우에 인정돼?", "label": "legal", "category": "주택임대차법"}
+{"question": "건설하자가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "건설부동산법"}
+{"question": "면접 영어에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "언어"}
+{"question": "제주도 2박 3일 여행 코스 추천해줘", "label": "nonlegal", "category": "여행"}
+{"question": "마라톤을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "스포츠"}
+{"question": "정기결제 해지와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "소비자법"}
+{"question": "부가가치세에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "세법"}
+{"question": "보이스피싱 피해와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "금융보험법"}
+{"question": "심리학에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "사실혼의 법적 요건은 무엇이야?", "label": "legal", "category": "가족법"}
+{"question": "온라인 구매 철회에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "소비자법"}
+{"question": "눈 예보에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "골프에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "스포츠"}
+{"question": "고용보험과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "사회복지법"}
+{"question": "자기소개서에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "진로"}
+{"question": "음주측정거부에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "도로교통법"}
+{"question": "명의신탁을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "건설부동산법"}
+{"question": "SF 영화를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "연예"}
+{"question": "주거침입죄에 필요한 증거는 무엇이야?", "label": "legal", "category": "형법"}
+{"question": "면접교섭권에 필요한 증거는 무엇이야?", "label": "legal", "category": "가족법"}
+{"question": "짧은 시에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "창작"}
+{"question": "윈도우 업데이트를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "IT 사용"}
+{"question": "프린터 연결에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "IT 사용"}
+{"question": "체류자격이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "헌법출입국법"}
+{"question": "도보 길찾기와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "교통정보"}
+{"question": "직장 내 괴롭힘에 필요한 증거는 무엇이야?", "label": "legal", "category": "노동법"}
+{"question": "축구 경기와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "스포츠"}
+{"question": "고소에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "형사소송법"}
+{"question": "카메라와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "쇼핑"}
+{"question": "폰트 저작권을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "지식재산권법"}
+{"question": "신용정보가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "금융보험법"}
+{"question": "습관 만들기를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "여름 더위 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "날씨"}
+{"question": "엑셀 자동화에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "근로계약에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "노동법"}
+{"question": "임대차 계약 해지와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "주택임대차법"}
+{"question": "Docker 이미지에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "요가 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "스포츠"}
+{"question": "짧은 시 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "창작"}
+{"question": "전세보증금 반환이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "주택임대차법"}
+{"question": "복지급여 환수의 법적 요건은 무엇이야?", "label": "legal", "category": "사회복지법"}
+{"question": "한국 드라마 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "연예"}
+{"question": "클라우드 저장을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "IT 사용"}
+{"question": "명상에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "건강생활"}
+{"question": "음주측정거부와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "도로교통법"}
+{"question": "환경분쟁조정은 어떤 경우에 인정돼?", "label": "legal", "category": "환경법"}
+{"question": "아침 루틴을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "인사·일상"}
+{"question": "방 청소에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "생활"}
+{"question": "블루투스 오류에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "IT 사용"}
+{"question": "발표 준비 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "교육"}
+{"question": "김치찌개에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "음식"}
+{"question": "공사대금과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "건설부동산법"}
+{"question": "커피머신과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "쇼핑"}
+{"question": "국적취득이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "헌법출입국법"}
+{"question": "메모 방법을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "내일 기온에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "경제 상식에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "자기소개서 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "진로"}
+{"question": "한식의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "음식"}
+{"question": "쓰레기 분리배출에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "생활"}
+{"question": "수학 공부에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "교육"}
+{"question": "책상 의자에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "쇼핑"}
+{"question": "구속영장과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "형사소송법"}
+{"question": "환경분쟁조정과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "환경법"}
+{"question": "한국사와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "일반상식"}
+{"question": "악취 피해와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "환경법"}
+{"question": "재산권에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "헌법출입국법"}
+{"question": "재개발과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "건설부동산법"}
+{"question": "직장 내 괴롭힘을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "노동법"}
+{"question": "강제퇴거와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "헌법출입국법"}
+{"question": "일출 시간을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "성년후견의 법적 요건은 무엇이야?", "label": "legal", "category": "가족법"}
+{"question": "간호사 업무범위는 어떤 경우에 인정돼?", "label": "legal", "category": "의료법"}
+{"question": "통신판매가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "소비자법"}
+{"question": "전자책 단말기에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "쇼핑"}
+{"question": "친구와 갈등에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "관계·소통"}
+{"question": "포트폴리오에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "진로"}
+{"question": "사업자등록을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "세법"}
+{"question": "회의 정리를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "체류자격을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "헌법출입국법"}
+{"question": "제주도 여행을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "여행"}
+{"question": "채무조정은 어떤 경우에 인정돼?", "label": "legal", "category": "금융보험법"}
+{"question": "세계사에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "도로교통법에서 난폭운전은 어떤 행위를 말해?", "label": "legal", "category": "도로교통법"}
+{"question": "연대보증은 어떤 경우에 인정돼?", "label": "legal", "category": "민법"}
+{"question": "혼자 여행을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "여행"}
+{"question": "이력서 작성과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "진로"}
+{"question": "응원 문구에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "인사·일상"}
+{"question": "사기죄가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "형법"}
+{"question": "고속도로 교통에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "교통정보"}
+{"question": "할부계약은 어떤 경우에 인정돼?", "label": "legal", "category": "소비자법"}
+{"question": "양도소득세에 필요한 증거는 무엇이야?", "label": "legal", "category": "세법"}
+{"question": "사기죄의 법적 요건은 무엇이야?", "label": "legal", "category": "형법"}
+{"question": "악기 연주와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "취미"}
+{"question": "해고예고에 필요한 증거는 무엇이야?", "label": "legal", "category": "노동법"}
+{"question": "과학 실험을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "교육"}
+{"question": "오늘 날씨를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "운전면허 정지기간 중 운전한 경우도 무면허운전에 해당해?", "label": "legal", "category": "도로교통법"}
+{"question": "취득세와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "세법"}
+{"question": "주주대표소송이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "상법"}
+{"question": "파일 압축에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "IT 사용"}
+{"question": "칭찬하는 방법을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "관계·소통"}
+{"question": "응급의료 거부와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "의료법"}
+{"question": "철학 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "일반상식"}
+{"question": "저작권 침해가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "지식재산권법"}
+{"question": "일출 시간에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "자기소개서에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "진로"}
+{"question": "긴급체포는 어떤 경우에 인정돼?", "label": "legal", "category": "형사소송법"}
+{"question": "발음 교정을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "언어"}
+{"question": "토지수용을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "건설부동산법"}
+{"question": "보험금 지급에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "금융보험법"}
+{"question": "신용정보를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "금융보험법"}
+{"question": "항소가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "형사소송법"}
+{"question": "여행 준비물에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "여행"}
+{"question": "공동저작물이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "지식재산권법"}
+{"question": "디저트의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "음식"}
+{"question": "서울 관광에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "여행"}
+{"question": "무면허운전과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "도로교통법"}
+{"question": "세무조사의 법적 요건은 무엇이야?", "label": "legal", "category": "세법"}
+{"question": "정규표현식을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "사기죄와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "형법"}
+{"question": "회의 정리에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "회사 합병을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "상법"}
+{"question": "의료광고의 법적 요건은 무엇이야?", "label": "legal", "category": "의료법"}
+{"question": "사진 무단사용에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "지식재산권법"}
+{"question": "상속세가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "세법"}
+{"question": "기분 전환에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "인사·일상"}
+{"question": "노래 주제에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "창작"}
+{"question": "종합소득세는 어떤 경우에 인정돼?", "label": "legal", "category": "세법"}
+{"question": "인디 음악과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "연예"}
+{"question": "선물 추천 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "쇼핑"}
+{"question": "테니스의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "스포츠"}
+{"question": "가족 대화 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "관계·소통"}
+{"question": "직무 선택에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "진로"}
+{"question": "편의점에서 물건을 계산하지 않고 가지고 나오면 절도죄가 성립해?", "label": "legal", "category": "형법"}
+{"question": "낚시에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "취미"}
+{"question": "자바스크립트 배열 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "코딩"}
+{"question": "개인정보 삭제요구가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "개인정보보호법"}
+{"question": "이사의 경업금지에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "상법"}
+{"question": "가족 대화와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "관계·소통"}
+{"question": "역사 공부에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "교육"}
+{"question": "입양의 법적 요건은 무엇이야?", "label": "legal", "category": "가족법"}
+{"question": "짧은 시와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "창작"}
+{"question": "보드게임에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "취미"}
+{"question": "자전거 운동에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "스포츠"}
+{"question": "주간 회고와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "생산성"}
+{"question": "긴급체포를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "형사소송법"}
+{"question": "소개팅 대화 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "관계·소통"}
+{"question": "절도죄에서 말하는 타인의 재물은 무엇을 의미해?", "label": "legal", "category": "형법"}
+{"question": "강도죄와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "형법"}
+{"question": "영업정지와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "행정법"}
+{"question": "직장 내 괴롭힘은 어떤 경우에 인정돼?", "label": "legal", "category": "노동법"}
+{"question": "우선변제권은 어떤 경우에 인정돼?", "label": "legal", "category": "주택임대차법"}
+{"question": "노인장기요양에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "사회복지법"}
+{"question": "부동산 중개를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "건설부동산법"}
+{"question": "택시 이용을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "교통정보"}
+{"question": "음주측정거부는 어떤 경우에 인정돼?", "label": "legal", "category": "도로교통법"}
+{"question": "주택 인도가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "주택임대차법"}
+{"question": "중고 제품과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "쇼핑"}
+{"question": "농구 슛에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "스포츠"}
+{"question": "임대차 계약 해지의 법적 요건은 무엇이야?", "label": "legal", "category": "주택임대차법"}
+{"question": "가벼운 운동에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "건강생활"}
+{"question": "회의 정리에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "민감정보 처리에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "개인정보보호법"}
+{"question": "진술거부권과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "형사소송법"}
+{"question": "동화 이야기에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "창작"}
+{"question": "수학 공부에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "교육"}
+{"question": "자기소개에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "인사·일상"}
+{"question": "주말 계획을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "인사·일상"}
+{"question": "보험계약 해지에 필요한 증거는 무엇이야?", "label": "legal", "category": "금융보험법"}
+{"question": "유언에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "상속법"}
+{"question": "심리학의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "일반상식"}
+{"question": "취득세에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "세법"}
+{"question": "사기죄에 필요한 증거는 무엇이야?", "label": "legal", "category": "형법"}
+{"question": "공동저작물에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "지식재산권법"}
+{"question": "보험사기는 어떤 경우에 인정돼?", "label": "legal", "category": "금융보험법"}
+{"question": "고발과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "형사소송법"}
+{"question": "기분 전환의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "인사·일상"}
+{"question": "재판상 이혼과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "가족법"}
+{"question": "잡담 주제에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "인사·일상"}
+{"question": "주방 정리에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "생활"}
+{"question": "건강보험의 법적 요건은 무엇이야?", "label": "legal", "category": "사회복지법"}
+{"question": "연장근로수당이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "노동법"}
+{"question": "비정규직 차별과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "노동법"}
+{"question": "토지수용과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "건설부동산법"}
+{"question": "집중력에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "교육"}
+{"question": "부당이득이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "민법"}
+{"question": "전세보증금 반환과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "주택임대차법"}
+{"question": "악기 연주에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "취미"}
+{"question": "혼자 여행에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "여행"}
+{"question": "귀화허가와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "헌법출입국법"}
+{"question": "수영을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "스포츠"}
+{"question": "점유취득시효가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "민법"}
+{"question": "동화 이야기에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "창작"}
+{"question": "건축허가에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "건설부동산법"}
+{"question": "중식에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "음식"}
+{"question": "상속결격의 법적 요건은 무엇이야?", "label": "legal", "category": "상속법"}
+{"question": "전자책 단말기에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "쇼핑"}
+{"question": "보험계약 해지와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "금융보험법"}
+{"question": "건축허가를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "건설부동산법"}
+{"question": "근로계약을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "노동법"}
+{"question": "자전거 경로에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "교통정보"}
+{"question": "뜨개질에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "취미"}
+{"question": "이력서 작성 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "진로"}
+{"question": "복지급여 환수에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "사회복지법"}
+{"question": "집중 시간을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "그림 그리기에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "취미"}
+{"question": "수습기간이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "노동법"}
+{"question": "해고예고와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "노동법"}
+{"question": "화면 녹화에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "IT 사용"}
+{"question": "독해 공부를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "언어"}
+{"question": "블로그 제목에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "창작"}
+{"question": "폐기물 처리와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "환경법"}
+{"question": "파스타 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "음식"}
+{"question": "커피머신 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "쇼핑"}
+{"question": "파산면책은 어떤 경우에 인정돼?", "label": "legal", "category": "금융보험법"}
+{"question": "걷기 운동에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "건강생활"}
+{"question": "의료광고에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "의료법"}
+{"question": "입양을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "가족법"}
+{"question": "환자 동의의 법적 요건은 무엇이야?", "label": "legal", "category": "의료법"}
+{"question": "샐러드에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "음식"}
+{"question": "가구 배치를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "생활"}
+{"question": "골프와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "스포츠"}
+{"question": "양도소득세에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "세법"}
+{"question": "재건축에 필요한 증거는 무엇이야?", "label": "legal", "category": "건설부동산법"}
+{"question": "화면 녹화에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "IT 사용"}
+{"question": "어음 지급과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "상법"}
+{"question": "유언집행에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "상속법"}
+{"question": "키보드 설정과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "IT 사용"}
+{"question": "저작인격권에 필요한 증거는 무엇이야?", "label": "legal", "category": "지식재산권법"}
+{"question": "중앙선 침범에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "도로교통법"}
+{"question": "위치정보 수집과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "개인정보보호법"}
+{"question": "살인죄에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "형법"}
+{"question": "임금체불은 어떤 경우에 인정돼?", "label": "legal", "category": "노동법"}
+{"question": "버스 노선에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "교통정보"}
+{"question": "노트북 추천에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "쇼핑"}
+{"question": "아동복지의 법적 요건은 무엇이야?", "label": "legal", "category": "사회복지법"}
+{"question": "테니스에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "스포츠"}
+{"question": "짧은 시에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "창작"}
+{"question": "물권변동에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "민법"}
+{"question": "소설 제목과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "창작"}
+{"question": "점유취득시효에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "민법"}
+{"question": "취업 공부에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "진로"}
+{"question": "과속운전은 어떤 경우에 인정돼?", "label": "legal", "category": "도로교통법"}
+{"question": "포트폴리오를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "진로"}
+{"question": "프리랜서에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "진로"}
+{"question": "한국사에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "재건축의 법적 요건은 무엇이야?", "label": "legal", "category": "건설부동산법"}
+{"question": "업무 우선순위를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "노트 정리의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "교육"}
+{"question": "전자상거래 환불은 어떤 경우에 인정돼?", "label": "legal", "category": "소비자법"}
+{"question": "상표권 침해를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "지식재산권법"}
+{"question": "클라우드 저장의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "IT 사용"}
+{"question": "노트 정리에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "교육"}
+{"question": "버스 노선을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "교통정보"}
+{"question": "진술거부권과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "형사소송법"}
+{"question": "물건을 가지고 나오다가 주인에게 들켜서 밀치고 도망가면 죄가 달라져?", "label": "legal", "category": "형법"}
+{"question": "보석과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "형사소송법"}
+{"question": "신발 관리와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "생활"}
+{"question": "리액트 컴포넌트에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "코딩"}
+{"question": "입양이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "가족법"}
+{"question": "주방 정리를 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "생활"}
+{"question": "유언집행과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "상속법"}
+{"question": "악취 피해를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "환경법"}
+{"question": "메모 방법에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "증거능력을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "형사소송법"}
+{"question": "난폭운전은 어떤 경우에 인정돼?", "label": "legal", "category": "도로교통법"}
+{"question": "세금 체납에 필요한 증거는 무엇이야?", "label": "legal", "category": "세법"}
+{"question": "영업비밀 침해를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "지식재산권법"}
+{"question": "인디 음악을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "연예"}
+{"question": "SF 영화와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "연예"}
+{"question": "API 호출의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "코딩"}
+{"question": "샐러드의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "음식"}
+{"question": "상호사용을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "상법"}
+{"question": "국가배상에 필요한 증거는 무엇이야?", "label": "legal", "category": "행정법"}
+{"question": "추리소설에 대한 정보를 간단히 알려줘.", "label": "nonlegal", "category": "연예"}
+{"question": "폐기물 처리와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "환경법"}
+{"question": "기차 여행을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "여행"}
+{"question": "겨울 한파에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "날씨"}
+{"question": "재량권 일탈을 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "행정법"}
+{"question": "국적상실이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "헌법출입국법"}
+{"question": "도예 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "취미"}
+{"question": "거절하는 방법과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "관계·소통"}
+{"question": "압수수색과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "형사소송법"}
+{"question": "실업급여의 법적 요건은 무엇이야?", "label": "legal", "category": "사회복지법"}
+{"question": "사과하는 방법에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "관계·소통"}
+{"question": "엑셀 자동화 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "코딩"}
+{"question": "시간 관리 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "인사·일상"}
+{"question": "잡담 주제 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "인사·일상"}
+{"question": "준강도죄는 일반 절도죄와 어떤 점이 달라?", "label": "legal", "category": "형법"}
+{"question": "불법 주정차가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "도로교통법"}
+{"question": "아침 계획 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "생산성"}
+{"question": "동시이행항변권에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "민법"}
+{"question": "과속운전과 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "도로교통법"}
+{"question": "화면 녹화 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "IT 사용"}
+{"question": "제품 하자는 어떤 경우에 인정돼?", "label": "legal", "category": "소비자법"}
+{"question": "한정승인과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "상속법"}
+{"question": "법률행위 취소에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "민법"}
+{"question": "맥북 단축키와 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "IT 사용"}
+{"question": "목표 설정에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "생산성"}
+{"question": "무선 이어폰과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "쇼핑"}
+{"question": "유치권과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "건설부동산법"}
+{"question": "명예훼손죄와 비슷한 제도는 어떻게 구별해?", "label": "legal", "category": "형법"}
+{"question": "증거능력에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "형사소송법"}
+{"question": "개인정보 열람요구가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "개인정보보호법"}
+{"question": "중고 제품에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "쇼핑"}
+{"question": "여행 준비물에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "여행"}
+{"question": "강제퇴거를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "헌법출입국법"}
+{"question": "친생자관계에 필요한 증거는 무엇이야?", "label": "legal", "category": "가족법"}
+{"question": "체력 관리의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "건강생활"}
+{"question": "건축 양식을 주제로 짧게 이야기해줘.", "label": "nonlegal", "category": "일반상식"}
+{"question": "양도소득세를 판단할 때 법원은 무엇을 중요하게 봐?", "label": "legal", "category": "세법"}
+{"question": "고속도로 교통에 대해 쉽게 설명해줘.", "label": "nonlegal", "category": "교통정보"}
+{"question": "업무방해죄와 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "형법"}
+{"question": "임금체불의 법적 요건은 무엇이야?", "label": "legal", "category": "노동법"}
+{"question": "서울 관광 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "여행"}
+{"question": "축하 카드 문구 관련해서 알아두면 좋은 점이 뭐야?", "label": "nonlegal", "category": "창작"}
+{"question": "작문 연습에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "언어"}
+{"question": "배출시설 허가는 어떤 경우에 인정돼?", "label": "legal", "category": "환경법"}
+{"question": "한식과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "음식"}
+{"question": "대기오염 배출이 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "환경법"}
+{"question": "자세 교정과 관련된 실생활 팁이 있어?", "label": "nonlegal", "category": "건강생활"}
+{"question": "기초생활보장과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "사회복지법"}
+{"question": "도예에 대해 초보자가 궁금해할 내용을 알려줘.", "label": "nonlegal", "category": "취미"}
+{"question": "신호위반에 예외가 인정되는 경우도 있어?", "label": "legal", "category": "도로교통법"}
+{"question": "지하철 환승의 주요 특징은 무엇이야?", "label": "nonlegal", "category": "교통정보"}
+{"question": "과징금과 관련해 어떤 책임이 발생할 수 있어?", "label": "legal", "category": "행정법"}
+{"question": "정기결제 해지가 문제되면 어떤 법적 절차를 밟아야 해?", "label": "legal", "category": "소비자법"}
+{"question": "신용정보의 법적 요건은 무엇이야?", "label": "legal", "category": "금융보험법"}
+{"question": "건축허가는 어떤 경우에 인정돼?", "label": "legal", "category": "건설부동산법"}
+{"question": "공룡에 관한 핵심 내용을 정리해줘.", "label": "nonlegal", "category": "일반상식"}

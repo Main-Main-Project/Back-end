@@ -18,7 +18,8 @@ class Settings(BaseSettings):
     # str은 헌팅식 python 문법입니다. typescript처럼 타입을 미리 정의를 해주는방식
     SUMMARIZE_MODEL: str = Field(default="exaone3.5:2.4b")
     EMBEDDING_MODEL: str = Field(default="BAAI/bge-m3")    # 임베딩용
-    RAG_MODEL: str = "law-exaone-7.8b-q6"          # RAG 응답용
+    RAG_MODEL: str = "law-exaone-7.8b-q6"        # RAG 응답용
+
     #임베딩모델 설정
     SPARSE_THRESHOLD: float = Field(default=...)
     EMBEDDING_DEVICE: str= Field(default=...) 
@@ -56,6 +57,24 @@ class Settings(BaseSettings):
     ADMIN_EMAIL: str = Field(default=...)
     ADMIN_PASSWORD: str = Field(default=...)
     ADMIN_NAME: str = Field(default=...)
+
+    # Multi-Centroid 설정
+    CENTROID_MODEL_PATH: str = Field(
+        default=os.path.join(
+            BASE_DIR,
+            "app",
+            "centroid_dataset",
+            "multi_centroids.npz",
+        )
+    )
+    CENTROID_MIN_SCORE: float = Field(default=0.5271)
+    CENTROID_MIN_MARGIN: float = Field(default=0.05)
+
+    # Cross-Encoder 설정
+    RERANKER_MODEL: str = Field(
+        default="BAAI/bge-reranker-v2-m3"
+    )
+    RERANKER_DEVICE: str = Field(default="cpu")
 
 
     class Config:

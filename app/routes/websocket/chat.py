@@ -232,6 +232,7 @@ async def websocket_chat(
                 "message_id": str(getattr(msg, "message_id", "")),
                 "question": msg.question,
                 "answer": msg.answer,
+                "sources": response.sources,
                 "question_at": msg.question_at.isoformat()
                 if msg.question_at
                 else None,

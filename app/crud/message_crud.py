@@ -35,7 +35,11 @@ def get_recent_messages(
     """
     rows = (
         db.query(Message)
-        .filter(Message.session_id == session_id)
+        .filter(
+            Message.session_id == session_id,
+            Message.answer.isnot(None),
+            Message.answer != "",
+        )
         .order_by(Message.question_at.desc())
         .limit(limit)
         .all()

@@ -1,15 +1,3 @@
-"""
-6단계: 환각 검증 + 출처 포맷
-
-역할:
-1. LLM 답변에서 법령 조문(예: 형법 제268조)을 추출
-2. 추출한 조문이 Top-K의 메타데이터(article)에 실제로 있는지 대조
-3. 없으면 "참고 자료에서 확인되지 않음" 경고 생성 (답변 자체는 건드리지 않음)
-4. 사용자에게 보여줄 출처(sources) 포맷 생성
-
-검증 단위: '조'. 항은 검증하지 않음 (메타데이터에 조만 넣기로 약속)
-대조 대상: 메타데이터 article 우선, 없으면 본문(text) 폴백
-"""
 from app.schemas.chat.response import ChatAnswerResponse
 import re
 

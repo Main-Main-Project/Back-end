@@ -1,33 +1,78 @@
 from app.services.prompts import SYSTEM_PROMPT
 
+# history 받아서 LLM한테 보여줄 하나의 문자열 만듬
+def format_history_context(history: list[dict]) -> str:
+    """
+    이전 대화는 현재 질문의 맥락 파악용으로만 전달한다.
+    법적 근거로 쓰지 못하게 프롬프트에서 명확히 제한한다.
+    """
 
-# ① 검색 결과 → 참고자료 문자열
+    if not history:
+        return ""
+
+    lines = [
+        "[이전 대화 맥락]",
+        "아래 이전 대화는 사용자의 이어지는 질문을 이해하기 위한 참고용입니다.",
+        "이전 대화의 답변 내용은 법적 근거로 사용하지 마세요.",
+        "법령명, 조문번호, 수치, 처벌 내용, 판례번호는 반드시 [참고자료]에 있는 내용만 근거로 사용하세요.",
+        "",
+    ]
+
+    # history는 최신순이라고 가정하므로 오래된 것부터 보여준다.
+    for i, turn in enumerate(reversed(history), start=1):
+        question = (turn.get("question") or "").strip()
+        answer = (turn.get("answer") or "").strip()
+
+        if question:
+            lines.append(f"{i}. 이전 질문: {question}")
+
+        # 이전 답변은 맥락용으로만 짧게 전달한다.
+        if answer:
+            answer_summary = answer[:120].replace("\n", " ").strip()
+            lines.append(f"   이전 답변 참고: {answer_summary}")
+
+    return "\n".join(lines)
+
+
+# select_llm_search_results 거친 후 모델에 넣을 형식만들기
 def format_search_results(search_results: list[dict]) -> str:
-    # 검색 결과가 비어있으면 빈 채로 두지 않고 자료 못 찾음이라고 명시
     if not search_results:
         return "[참고자료]\n관련 자료를 찾을 수 없습니다."
 
-    # 결과 문자열을 한 줄씩 쌓는 리스트 (첫 줄 제목은 [참고자료])
-    lines = ["[참고자료]"]
+    lines = [
+        "[참고자료]",
+        "아래 참고자료만 근거로 답변하세요.",
+        "법령명이나 조문번호를 새로 생성하지 마세요.",
+        "답변 마지막 줄에 사용한 조문을 '근거: 법령명 제○조' 형식으로 표시하세요.",
+        "근거에는 반드시 참고자료의 [조문] 필드에 있는 값만 사용하세요.",
+        "",
+    ]
+
     for i, result in enumerate(search_results, start=1):
-        source_type = result["source_type"]
-        metadata = result["metadata"]
-        # 공용 법령일 때
-        if source_type == "legal_vector":
-            content = metadata.get("text") or metadata.get("qa_text", "")
-        # 개인 문서일 때
-        else:  # document
-            content = metadata.get("text", "")
+        metadata = result.get("metadata") or {}
 
+        content = (
+            metadata.get("text")
+            or metadata.get("source_text")
+            or metadata.get("qa_text")
+            or ""
+        )
 
-        # article metadata를 조문 출처로 우선 사용한다.
-        # 본문(content)은 답변 내용의 근거로만 사용하고,
-        # 조문 번호 인용은 [조문] 필드에 있는 값만 쓰도록 프롬프트에서 제한한다.
-        article = metadata.get("article", "")
-        law_name = metadata.get("law_name") or metadata.get("category", "")
-        content = content.strip() or "본문 내용 없음"
-        if article:
-            lines.append(f"{i}. [조문: {article}] [본문]\n{content}")
+        article = (metadata.get("article") or "").strip()
+        law_name = (
+            metadata.get("law_name")
+            or metadata.get("category")
+            or ""
+        ).strip()
+
+        content = str(content).strip() or "본문 내용 없음"
+
+        display_article = article
+        if article and law_name and law_name not in article:
+            display_article = f"{law_name} {article}"
+
+        if display_article:
+            lines.append(f"{i}. [조문: {display_article}] [본문]\n{content}")
         elif law_name:
             lines.append(f"{i}. [법령명: {law_name}] [조문: 확인 불가] [본문]\n{content}")
         else:
@@ -36,30 +81,29 @@ def format_search_results(search_results: list[dict]) -> str:
     return "\n".join(lines)
 
 
-# ② 조립 → messages 완성
-#
-# [핵심] 이전 대화(history)를 user 텍스트에 박지 않고,
-#        messages 배열의 실제 대화 턴(role: user / assistant)으로 넣는다.
-#        → 모델이 흐름으로 인식 → 이전 답변 복사 방지
-#        → Ollama /api/chat 의 정석 방식
+# 두 개(format_history_context, format_search_results)를 하나로 합쳐서 최종 형태로 포장
 def assemble_messages(
-    question: str,                    # 이번 사용자 질문
-    search_results: list[dict],       # search_pinecone가 준 검색 결과
-    history: list[dict],              # 이전 대화 [{question, answer}, ...] (최신순)
+    question: str,
+    search_results: list[dict],
+    history: list[dict],
 ) -> list[dict]:
 
-    # 1. 시스템 프롬프트
-    messages = [{"role": "system", "content": SYSTEM_PROMPT}]
-
-    # 2. 이전 대화를 실제 대화 턴으로 추가 (오래된 것부터)
-    #    history는 최신순(최근이 앞)으로 들어오므로 reversed로 시간순으로 펼침
-    for turn in reversed(history):
-        messages.append({"role": "user", "content": turn["question"]})
-        messages.append({"role": "assistant", "content": turn["answer"]})
-
-    # 3. 이번 질문 = 참고자료 + 질문 (이번 턴의 user 메시지)
+    history_context = format_history_context(history)
     search_str = format_search_results(search_results)
-    user_content = f"{search_str}\n\n[질문]\n{question}"
-    messages.append({"role": "user", "content": user_content})
+
+    user_parts = []
+
+    if history_context:
+        user_parts.append(history_context)
+
+    user_parts.append(search_str)
+    user_parts.append(f"[현재 질문]\n{question}")
+
+    user_content = "\n\n".join(user_parts)
+
+    messages = [
+        {"role": "system", "content": SYSTEM_PROMPT},
+        {"role": "user", "content": user_content},
+    ]
 
     return messages

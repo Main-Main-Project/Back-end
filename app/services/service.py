@@ -25,15 +25,15 @@ async def generate_answer(messages : list[dict]):
         # 모델 답변 스타일 설정
         "options" : {
             # 모델의 창의성, 랜덤성 조정 0.3으로 보수적으로 답변(법률 도메인이라 선택)
-            "temperature" : 0.2,
+            "temperature" : 0,
             # 모델이 다음 단어를 고를 때 후보 범위 설정 
             # 너무 낮으면 단조롭고, 너무 높으면 답변이 흔들릴 수 있다
             "top_p" : 0.85,
             # 모델이 반복되는 말을 억제하는 설정
-            "repeat_penalty" : 1.5,
+            "repeat_penalty" : 1.15,
             "num_thread" : 4,
             "num_ctx" : 16384,      # 그릇 크게 → 10턴 안 짤림
-            "num_predict" : 280,    # 답변 짧게 → timeout 안 남
+            "num_predict" : 300,   
         }
     } 
     # Ollama와 통신하기 위한 
