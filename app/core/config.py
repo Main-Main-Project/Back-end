@@ -18,7 +18,7 @@ class Settings(BaseSettings):
     # str은 헌팅식 python 문법입니다. typescript처럼 타입을 미리 정의를 해주는방식
     SUMMARIZE_MODEL: str = Field(default="exaone3.5:2.4b")
     EMBEDDING_MODEL: str = Field(default="BAAI/bge-m3")    # 임베딩용
-    RAG_MODEL: str = "law-exaone-7.8b-q6"        # RAG 응답용
+    RAG_MODEL: str = "exaone-legal:latest"        # RAG 응답용
 
     #임베딩모델 설정
     SPARSE_THRESHOLD: float = Field(default=...)
